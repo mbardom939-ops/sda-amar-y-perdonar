@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260509003509AEQ1LZ</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260509003509N451I1</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Amar y perdonar: aprendemos con Jesús a cuidar a los demás</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje de Religión Católica para Educación Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María del Carmen Barranco Domínguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este recurso digital presenta una situación de aprendizaje para el área de Religión Católica en Educación Primaria. El alumnado trabajará las enseñanzas de Jesús sobre el amor y el perdón mediante actividades guiadas, recursos digitales, trabajo colaborativo y reflexión personal. El producto final será un mural digital colaborativo en Canva en el que se representen acciones cotidianas relacionadas con amar, perdonar, ayudar, compartir y hacer las paces.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778276950874</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>f89cd2f9-030b-4883-a4a2-2fcefa970e7e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778277161376-pvxqf405r</odePageId>
+  <odeParentPageId>f89cd2f9-030b-4883-a4a2-2fcefa970e7e</odeParentPageId>
+  <pageName>1.Inicio</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778277161376-pvxqf405r</odePageId>
+      <odeBlockId>block-1778277549165-d0dn8zab2</odeBlockId>
+      <blockName>Presentación inicial</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778277161376-pvxqf405r</odePageId>
+          <odeBlockId>block-1778277549165-d0dn8zab2</odeBlockId>
+          <odeIdeviceId>idevice-1778277549159-01z4xdx1r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Amar y perdonar: aprendemos con Jesús a cuidar a los demás<br />Situación de aprendizaje de Religión Católica<br />Este recurso digital presenta una situación de aprendizaje para el área de Religión Católica en Educación Primaria. A través de actividades guiadas, recursos digitales y trabajo colaborativo, el alumnado conocerá algunas enseñanzas de Jesús relacionadas con el amor, el perdón, la ayuda a los demás, la amistad y la convivencia positiva.</p>
+<p>El proyecto está pensado para que el alumnado aprenda de forma activa, visual y sencilla, utilizando la tecnología de manera segura, responsable y guiada.</p>
+<p>¿Qué vamos a hacer?<br />Durante esta situación de aprendizaje vamos a:</p>
+<p>hablar sobre qué significan el amor y el perdón;<br />conocer relatos y enseñanzas de Jesús;<br />pensar en situaciones de la vida diaria en las que podemos pedir perdón, perdonar y ayudar;<br />realizar actividades digitales sencillas;<br />trabajar en parejas o pequeños grupos;<br />crear un mural digital colaborativo sobre el amor y el perdón.<br />Producto final<br />El producto final será un mural digital titulado:</p>
+<p>“Amar y perdonar”</p>
+<p>En él se incluirán imágenes, palabras, frases breves y ejemplos de acciones cotidianas relacionadas con el amor y el perdón.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277549159-01z4xdx1r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Amar y perdonar: aprendemos con Jesús a cuidar a los demás<br />Situación de aprendizaje de Religión Católica<br />Este recurso digital presenta una situación de aprendizaje para el área de Religión Católica en Educación Primaria. A través de actividades guiadas, recursos digitales y trabajo colaborativo, el alumnado conocerá algunas enseñanzas de Jesús relacionadas con el amor, el perdón, la ayuda a los demás, la amistad y la convivencia positiva.</p>\n<p>El proyecto está pensado para que el alumnado aprenda de forma activa, visual y sencilla, utilizando la tecnología de manera segura, responsable y guiada.</p>\n<p>¿Qué vamos a hacer?<br />Durante esta situación de aprendizaje vamos a:</p>\n<p>hablar sobre qué significan el amor y el perdón;<br />conocer relatos y enseñanzas de Jesús;<br />pensar en situaciones de la vida diaria en las que podemos pedir perdón, perdonar y ayudar;<br />realizar actividades digitales sencillas;<br />trabajar en parejas o pequeños grupos;<br />crear un mural digital colaborativo sobre el amor y el perdón.<br />Producto final<br />El producto final será un mural digital titulado:</p>\n<p>“Amar y perdonar”</p>\n<p>En él se incluirán imágenes, palabras, frases breves y ejemplos de acciones cotidianas relacionadas con el amor y el perdón.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778277180507-rmmn9psat</odePageId>
+  <odeParentPageId>f89cd2f9-030b-4883-a4a2-2fcefa970e7e</odeParentPageId>
+  <pageName>2.Presentación del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778277180507-rmmn9psat</odePageId>
+      <odeBlockId>block-1778277773514-gck6fko6n</odeBlockId>
+      <blockName>Amar y perdonar: aprendemos con Jesús a cuidar a los demás</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778277180507-rmmn9psat</odePageId>
+          <odeBlockId>block-1778277773514-gck6fko6n</odeBlockId>
+          <odeIdeviceId>idevice-1778277773511-phyxm3sz8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Título<br />Amar y perdonar: aprendemos con Jesús a cuidar a los demás</p>
+<p>Área y nivel<br />Religión Católica — Educación Primaria</p>
+<p>Descripción<br />Esta situación de aprendizaje se centra en las enseñanzas de Jesús relacionadas con el amor, el perdón, la misericordia, la amistad y el cuidado de los demás.</p>
+<p>A través de actividades sencillas y adaptadas a la edad del alumnado, se trabajarán situaciones cercanas a su vida cotidiana: pedir perdón, perdonar a un compañero, compartir, ayudar, hacer las paces y tratar bien a los demás.</p>
+<p>El alumnado utilizará recursos digitales de forma guiada y responsable, siempre con acompañamiento docente. La finalidad no es solo aprender contenidos del área de Religión Católica, sino también desarrollar la competencia digital mediante un uso seguro, crítico y creativo de las herramientas disponibles en el centro.</p>
+<p>Objetivos de aprendizaje<br />Al finalizar la situación de aprendizaje, el alumnado será capaz de:</p>
+<p>reconocer el amor y el perdón como valores presentes en las enseñanzas de Jesús;<br />identificar situaciones cotidianas en las que puede pedir perdón, perdonar y ayudar;<br />participar en actividades colaborativas respetando las ideas de los compañeros;<br />utilizar herramientas digitales sencillas de forma segura y guiada;<br />crear un mural digital con imágenes, palabras y frases breves sobre el amor y el perdón.<br />Metodología<br />La propuesta se basa en una metodología activa, visual y participativa. Se combinarán actividades de diálogo, visionado de recursos audiovisuales, juegos interactivos, trabajo en parejas, trabajo en pequeño grupo y creación de un producto final digital.</p>
+<p>El uso de la tecnología será progresivo y adaptado al nivel del alumnado. La docente proporcionará plantillas, recursos revisados y pautas claras para facilitar la participación de todo el grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277773511-phyxm3sz8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título<br />Amar y perdonar: aprendemos con Jesús a cuidar a los demás</p>\n<p>Área y nivel<br />Religión Católica — Educación Primaria</p>\n<p>Descripción<br />Esta situación de aprendizaje se centra en las enseñanzas de Jesús relacionadas con el amor, el perdón, la misericordia, la amistad y el cuidado de los demás.</p>\n<p>A través de actividades sencillas y adaptadas a la edad del alumnado, se trabajarán situaciones cercanas a su vida cotidiana: pedir perdón, perdonar a un compañero, compartir, ayudar, hacer las paces y tratar bien a los demás.</p>\n<p>El alumnado utilizará recursos digitales de forma guiada y responsable, siempre con acompañamiento docente. La finalidad no es solo aprender contenidos del área de Religión Católica, sino también desarrollar la competencia digital mediante un uso seguro, crítico y creativo de las herramientas disponibles en el centro.</p>\n<p>Objetivos de aprendizaje<br />Al finalizar la situación de aprendizaje, el alumnado será capaz de:</p>\n<p>reconocer el amor y el perdón como valores presentes en las enseñanzas de Jesús;<br />identificar situaciones cotidianas en las que puede pedir perdón, perdonar y ayudar;<br />participar en actividades colaborativas respetando las ideas de los compañeros;<br />utilizar herramientas digitales sencillas de forma segura y guiada;<br />crear un mural digital con imágenes, palabras y frases breves sobre el amor y el perdón.<br />Metodología<br />La propuesta se basa en una metodología activa, visual y participativa. Se combinarán actividades de diálogo, visionado de recursos audiovisuales, juegos interactivos, trabajo en parejas, trabajo en pequeño grupo y creación de un producto final digital.</p>\n<p>El uso de la tecnología será progresivo y adaptado al nivel del alumnado. La docente proporcionará plantillas, recursos revisados y pautas claras para facilitar la participación de todo el grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778277198095-nfobngv6w</odePageId>
+  <odeParentPageId>f89cd2f9-030b-4883-a4a2-2fcefa970e7e</odeParentPageId>
+  <pageName>3.Protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.Protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778277198095-nfobngv6w</odePageId>
+      <odeBlockId>block-1778277901196-uos5cl275</odeBlockId>
+      <blockName>Uso seguro y responsable de la tecnología</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778277198095-nfobngv6w</odePageId>
+          <odeBlockId>block-1778277901196-uos5cl275</odeBlockId>
+          <odeIdeviceId>idevice-1778277901192-xvh04r74a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Protección de datos personales y derechos digitales<br />En este proyecto vamos a utilizar algunas herramientas digitales para aprender, crear y colaborar. Para hacerlo de forma segura, es importante respetar unas normas básicas.</p>
+<p>Normas para el alumnado<br />Cuando utilicemos herramientas digitales en clase:</p>
+<p>no escribiremos apellidos, direcciones, teléfonos ni otros datos personales;<br />no subiremos fotos propias ni de compañeros;<br />usaremos solo las páginas y recursos indicados por la docente;<br />respetaremos el trabajo de los compañeros;<br />no borraremos ni modificaremos el trabajo de otros grupos;<br />utilizaremos imágenes y materiales revisados por la docente;<br />pediremos ayuda si aparece algo que no entendemos o que no corresponde a la actividad;<br />cuidaremos los dispositivos del centro;<br />usaremos la tecnología solo durante el tiempo necesario para la tarea.<br />Huella digital<br />Todo lo que hacemos en internet puede dejar rastro. Por eso, en este proyecto aprenderemos a usar la tecnología con cuidado, pensando antes de publicar, compartir o modificar cualquier contenido.</p>
+<p>Derechos digitales<br />Todo el alumnado tiene derecho a aprender en un entorno seguro, respetuoso y adaptado a sus necesidades. Por eso, las actividades digitales se realizarán de forma guiada, con materiales adecuados a la edad y evitando compartir información personal.</p>
+<p>Recomendaciones para las familias<br />Las familias pueden acompañar este aprendizaje recordando en casa algunas ideas sencillas:</p>
+<p>no compartir datos personales en internet;<br />pedir ayuda a una persona adulta ante cualquier duda;<br />usar los dispositivos durante un tiempo adecuado;<br />hablar con respeto también en los entornos digitales;<br />cuidar la privacidad propia y la de los demás.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277901192-xvh04r74a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Protección de datos personales y derechos digitales<br />En este proyecto vamos a utilizar algunas herramientas digitales para aprender, crear y colaborar. Para hacerlo de forma segura, es importante respetar unas normas básicas.</p>\n<p>Normas para el alumnado<br />Cuando utilicemos herramientas digitales en clase:</p>\n<p>no escribiremos apellidos, direcciones, teléfonos ni otros datos personales;<br />no subiremos fotos propias ni de compañeros;<br />usaremos solo las páginas y recursos indicados por la docente;<br />respetaremos el trabajo de los compañeros;<br />no borraremos ni modificaremos el trabajo de otros grupos;<br />utilizaremos imágenes y materiales revisados por la docente;<br />pediremos ayuda si aparece algo que no entendemos o que no corresponde a la actividad;<br />cuidaremos los dispositivos del centro;<br />usaremos la tecnología solo durante el tiempo necesario para la tarea.<br />Huella digital<br />Todo lo que hacemos en internet puede dejar rastro. Por eso, en este proyecto aprenderemos a usar la tecnología con cuidado, pensando antes de publicar, compartir o modificar cualquier contenido.</p>\n<p>Derechos digitales<br />Todo el alumnado tiene derecho a aprender en un entorno seguro, respetuoso y adaptado a sus necesidades. Por eso, las actividades digitales se realizarán de forma guiada, con materiales adecuados a la edad y evitando compartir información personal.</p>\n<p>Recomendaciones para las familias<br />Las familias pueden acompañar este aprendizaje recordando en casa algunas ideas sencillas:</p>\n<p>no compartir datos personales en internet;<br />pedir ayuda a una persona adulta ante cualquier duda;<br />usar los dispositivos durante un tiempo adecuado;<br />hablar con respeto también en los entornos digitales;<br />cuidar la privacidad propia y la de los demás.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778277212871-avviqafs3</odePageId>
+  <odeParentPageId>f89cd2f9-030b-4883-a4a2-2fcefa970e7e</odeParentPageId>
+  <pageName>4.Producto final</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778277212871-avviqafs3</odePageId>
+      <odeBlockId>block-1778277999967-jg125kp1x</odeBlockId>
+      <blockName>Mural digital colaborativo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778277212871-avviqafs3</odePageId>
+          <odeBlockId>block-1778277999967-jg125kp1x</odeBlockId>
+          <odeIdeviceId>idevice-1778277999965-uw1ntt95n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Producto final: mural digital “Amar y perdonar”<br />El producto final de esta situación de aprendizaje será un mural digital colaborativo elaborado con la herramienta Canva.</p>
+<p>¿Qué tendrá que hacer el alumnado?<br />El alumnado trabajará en parejas o pequeños grupos para crear un mural digital sencillo sobre las enseñanzas de Jesús relacionadas con el amor y el perdón.</p>
+<p>El mural deberá incluir:</p>
+<p>un título claro;<br />palabras importantes: amor, perdón, ayuda, respeto, paz, amistad;<br />imágenes relacionadas con el amor y el perdón;<br />una frase breve;<br />un ejemplo de la vida diaria donde podamos amar, pedir perdón o perdonar;<br />una presentación oral sencilla del trabajo realizado.<br />Herramienta digital<br />La herramienta principal será:</p>
+<p>Canva</p>
+<p>La docente preparará una plantilla base para que el alumnado pueda trabajar de forma guiada. Así, cada grupo podrá centrarse en elegir palabras, imágenes y frases adecuadas sin tener que diseñar todo desde cero.</p>
+<p>Organización del trabajo<br />El trabajo se realizará en:</p>
+<p>parejas o pequeños grupos;<br />aula ordinaria o rincón TIC;<br />con apoyo de la pizarra digital;<br />con acompañamiento docente;<br />utilizando imágenes y recursos revisados previamente.<br />Finalidad del producto<br />El mural servirá para demostrar lo aprendido durante el proyecto y para compartir con la clase acciones concretas relacionadas con:</p>
+<p>querer a los demás;<br />pedir perdón;<br />perdonar;<br />ayudar;<br />compartir;<br />hacer las paces;<br />cuidar a las personas cercanas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277999965-uw1ntt95n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Producto final: mural digital “Amar y perdonar”<br />El producto final de esta situación de aprendizaje será un mural digital colaborativo elaborado con la herramienta Canva.</p>\n<p>¿Qué tendrá que hacer el alumnado?<br />El alumnado trabajará en parejas o pequeños grupos para crear un mural digital sencillo sobre las enseñanzas de Jesús relacionadas con el amor y el perdón.</p>\n<p>El mural deberá incluir:</p>\n<p>un título claro;<br />palabras importantes: amor, perdón, ayuda, respeto, paz, amistad;<br />imágenes relacionadas con el amor y el perdón;<br />una frase breve;<br />un ejemplo de la vida diaria donde podamos amar, pedir perdón o perdonar;<br />una presentación oral sencilla del trabajo realizado.<br />Herramienta digital<br />La herramienta principal será:</p>\n<p>Canva</p>\n<p>La docente preparará una plantilla base para que el alumnado pueda trabajar de forma guiada. Así, cada grupo podrá centrarse en elegir palabras, imágenes y frases adecuadas sin tener que diseñar todo desde cero.</p>\n<p>Organización del trabajo<br />El trabajo se realizará en:</p>\n<p>parejas o pequeños grupos;<br />aula ordinaria o rincón TIC;<br />con apoyo de la pizarra digital;<br />con acompañamiento docente;<br />utilizando imágenes y recursos revisados previamente.<br />Finalidad del producto<br />El mural servirá para demostrar lo aprendido durante el proyecto y para compartir con la clase acciones concretas relacionadas con:</p>\n<p>querer a los demás;<br />pedir perdón;<br />perdonar;<br />ayudar;<br />compartir;<br />hacer las paces;<br />cuidar a las personas cercanas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778277227819-dz6tutkeb</odePageId>
+  <odeParentPageId>f89cd2f9-030b-4883-a4a2-2fcefa970e7e</odeParentPageId>
+  <pageName>5.Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5.Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778277227819-dz6tutkeb</odePageId>
+      <odeBlockId>block-1778278097900-mg1vuwciz</odeBlockId>
+      <blockName>Materiales para trabajar el amor y el perdón</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778277227819-dz6tutkeb</odePageId>
+          <odeBlockId>block-1778278097900-mg1vuwciz</odeBlockId>
+          <odeIdeviceId>idevice-1778278097897-51hnpe1uo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Recursos para el alumnado<br />En esta página encontrarás los materiales que utilizaremos durante el proyecto para aprender sobre el amor y el perdón.</p>
+<p>Estos recursos nos ayudarán a:</p>
+<p>conocer enseñanzas de Jesús;<br />pensar en situaciones de nuestra vida diaria;<br />realizar actividades digitales sencillas;<br />preparar el mural final “Amar y perdonar”.<br />Panel de recursos<br />La docente ha preparado un panel de recursos con vídeos, actividades, palabras importantes y materiales de apoyo.</p>
+<p>Enlace al Padlet del alumnado:</p>
+<p><a href="https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2">https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2</a></p>
+<p>¿Cómo usaremos estos recursos?<br title="" />Utilizaremos el Padlet de forma guiada en clase. No será necesario navegar libremente por internet. La docente indicará qué recurso vamos a consultar en cada momento.<a href="https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2">https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2</a></p>
+<p>Recordamos<br />Cuando utilicemos estos recursos:</p>
+<p>seguiremos las indicaciones de la docente;<br />no escribiremos datos personales;<br />no modificaremos el trabajo de otros grupos;<br />pediremos ayuda si algo no funciona;<br />cuidaremos los dispositivos del centro.<br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278097897-51hnpe1uo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Recursos para el alumnado<br />En esta página encontrarás los materiales que utilizaremos durante el proyecto para aprender sobre el amor y el perdón.</p>\n<p>Estos recursos nos ayudarán a:</p>\n<p>conocer enseñanzas de Jesús;<br />pensar en situaciones de nuestra vida diaria;<br />realizar actividades digitales sencillas;<br />preparar el mural final “Amar y perdonar”.<br />Panel de recursos<br />La docente ha preparado un panel de recursos con vídeos, actividades, palabras importantes y materiales de apoyo.</p>\n<p>Enlace al Padlet del alumnado:</p>\n<p><a href=\"https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2\">https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2</a></p>\n<p>¿Cómo usaremos estos recursos?<br title=\"\" />Utilizaremos el Padlet de forma guiada en clase. No será necesario navegar libremente por internet. La docente indicará qué recurso vamos a consultar en cada momento.<a href=\"https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2\">https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2</a></p>\n<p>Recordamos<br />Cuando utilicemos estos recursos:</p>\n<p>seguiremos las indicaciones de la docente;<br />no escribiremos datos personales;<br />no modificaremos el trabajo de otros grupos;<br />pediremos ayuda si algo no funciona;<br />cuidaremos los dispositivos del centro.<br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778277242145-y058dt42j</odePageId>
+  <odeParentPageId>f89cd2f9-030b-4883-a4a2-2fcefa970e7e</odeParentPageId>
+  <pageName>6.Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6.Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778277242145-y058dt42j</odePageId>
+      <odeBlockId>block-1778278585689-53quo7cfj</odeBlockId>
+      <blockName>Curación de herramientas docentes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778277242145-y058dt42j</odePageId>
+          <odeBlockId>block-1778278585689-53quo7cfj</odeBlockId>
+          <odeIdeviceId>idevice-1778278585687-dxzwtlxil</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Recursos para el profesorado</p>
+<p>En esta página se recoge una curación de herramientas digitales útiles para la gestión diaria del aula y para el diseño de actividades de aprendizaje.</p>
+<p>La selección incluye recursos para:</p>
+<p>- crear materiales visuales;<br />- diseñar actividades interactivas;<br />- organizar documentos y recursos;<br />- favorecer la participación del alumnado;<br />- crear productos finales digitales.</p>
+<p>## Panel de herramientas docentes</p>
+<p>La curación de contenidos para el profesorado se ha realizado con Wakelet.</p>
+<p>Enlace al Wakelet del profesorado:</p>
+<p><a href="https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh">https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh</a></p>
+<p><a href="https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh" title="">PEGA AQUÍ TU ENLACE DE WAKELET</a></p>
+<p>Utilidad de este panel</p>
+<p>Este panel puede servir como apoyo para otros docentes que quieran enriquecer su práctica diaria con herramientas digitales sencillas y adaptadas al aula de Educación Primaria.</p>
+<p>También permite tener localizados recursos útiles para crear materiales, organizar actividades y acompañar al alumnado en el uso responsable de la tecnología.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278585687-dxzwtlxil","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Recursos para el profesorado</p>\n<p>En esta página se recoge una curación de herramientas digitales útiles para la gestión diaria del aula y para el diseño de actividades de aprendizaje.</p>\n<p>La selección incluye recursos para:</p>\n<p>- crear materiales visuales;<br />- diseñar actividades interactivas;<br />- organizar documentos y recursos;<br />- favorecer la participación del alumnado;<br />- crear productos finales digitales.</p>\n<p>## Panel de herramientas docentes</p>\n<p>La curación de contenidos para el profesorado se ha realizado con Wakelet.</p>\n<p>Enlace al Wakelet del profesorado:</p>\n<p><a href=\"https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh\">https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh</a></p>\n<p><a href=\"https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh\" title=\"\">PEGA AQUÍ TU ENLACE DE WAKELET</a></p>\n<p>Utilidad de este panel</p>\n<p>Este panel puede servir como apoyo para otros docentes que quieran enriquecer su práctica diaria con herramientas digitales sencillas y adaptadas al aula de Educación Primaria.</p>\n<p>También permite tener localizados recursos útiles para crear materiales, organizar actividades y acompañar al alumnado en el uso responsable de la tecnología.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778277261924-vn7ot40v4</odePageId>
+  <odeParentPageId>f89cd2f9-030b-4883-a4a2-2fcefa970e7e</odeParentPageId>
+  <pageName>7.Línea temporal</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7.Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778277261924-vn7ot40v4</odePageId>
+      <odeBlockId>block-1778278719549-3cjjqspk4</odeBlockId>
+      <blockName>Organización temporal del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778277261924-vn7ot40v4</odePageId>
+          <odeBlockId>block-1778278719549-3cjjqspk4</odeBlockId>
+          <odeIdeviceId>idevice-1778278719547-f5gqhla3g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Línea temporal del proyecto</p>
+<p>Esta línea temporal presenta de forma organizada las sesiones, tareas, agrupamientos, espacios, herramientas digitales y recursos técnicos que se utilizarán durante la situación de aprendizaje.</p>
+<p>Organización general</p>
+<p>El proyecto se desarrollará en seis sesiones:</p>
+<p>1. Hablamos sobre el amor y el perdón**  <br />   Lluvia de ideas inicial con ejemplos cercanos: familia, amigos, clase y recreo.</p>
+<p>2. Escuchamos una enseñanza de Jesús**  <br />   Narración o vídeo de la parábola del hijo pródigo para identificar amor, perdón y acogida.</p>
+<p>3. Analizamos situaciones cotidianas**  <br />   Diálogo sobre pedir perdón, perdonar, ayudar, compartir y hacer las paces.</p>
+<p>4. Realizamos un juego de valores**  <br />   Actividad interactiva para relacionar palabras e imágenes con acciones de amor, perdón, respeto y ayuda.</p>
+<p>5. Preparamos el mural digital**  <br />   Elección de palabras, imágenes y una frase breve para explicar cómo podemos amar y perdonar.</p>
+<p>6. Creamos y presentamos el mural “Amar y perdonar”**  <br />   Elaboración del mural digital en Canva y presentación oral sencilla al grupo-clase.</p>
+<p>Agrupamientos</p>
+<p>Se combinarán actividades en gran grupo, parejas y pequeños grupos para favorecer la participación, la ayuda entre iguales y la inclusión de todo el alumnado.</p>
+<p>Herramientas y recursos técnicos</p>
+<p>Se utilizarán la pizarra digital, Padlet, Canva, Wordwall o Educaplay, tarjetas digitales o impresas y recursos visuales seleccionados previamente por la docente.</p>
+<p>Organización flexible</p>
+<p>Si falla alguna herramienta digital, la actividad continuará en papel, con tarjetas impresas o en la pizarra tradicional. Después se podrá pasar el trabajo a formato digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278719547-f5gqhla3g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Línea temporal del proyecto</p>\n<p>Esta línea temporal presenta de forma organizada las sesiones, tareas, agrupamientos, espacios, herramientas digitales y recursos técnicos que se utilizarán durante la situación de aprendizaje.</p>\n<p>Organización general</p>\n<p>El proyecto se desarrollará en seis sesiones:</p>\n<p>1. Hablamos sobre el amor y el perdón**  <br />   Lluvia de ideas inicial con ejemplos cercanos: familia, amigos, clase y recreo.</p>\n<p>2. Escuchamos una enseñanza de Jesús**  <br />   Narración o vídeo de la parábola del hijo pródigo para identificar amor, perdón y acogida.</p>\n<p>3. Analizamos situaciones cotidianas**  <br />   Diálogo sobre pedir perdón, perdonar, ayudar, compartir y hacer las paces.</p>\n<p>4. Realizamos un juego de valores**  <br />   Actividad interactiva para relacionar palabras e imágenes con acciones de amor, perdón, respeto y ayuda.</p>\n<p>5. Preparamos el mural digital**  <br />   Elección de palabras, imágenes y una frase breve para explicar cómo podemos amar y perdonar.</p>\n<p>6. Creamos y presentamos el mural “Amar y perdonar”**  <br />   Elaboración del mural digital en Canva y presentación oral sencilla al grupo-clase.</p>\n<p>Agrupamientos</p>\n<p>Se combinarán actividades en gran grupo, parejas y pequeños grupos para favorecer la participación, la ayuda entre iguales y la inclusión de todo el alumnado.</p>\n<p>Herramientas y recursos técnicos</p>\n<p>Se utilizarán la pizarra digital, Padlet, Canva, Wordwall o Educaplay, tarjetas digitales o impresas y recursos visuales seleccionados previamente por la docente.</p>\n<p>Organización flexible</p>\n<p>Si falla alguna herramienta digital, la actividad continuará en papel, con tarjetas impresas o en la pizarra tradicional. Después se podrá pasar el trabajo a formato digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778277261924-vn7ot40v4</odePageId>
+      <odeBlockId>block-1778279383741-yaoqjolwo</odeBlockId>
+      <blockName>Línea temporal visual</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778277261924-vn7ot40v4</odePageId>
+          <odeBlockId>block-1778279383741-yaoqjolwo</odeBlockId>
+          <odeIdeviceId>idevice-1778279383739-bgqawojov</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se incluye la línea temporal visual de la situación de aprendizaje, donde se organizan las sesiones, tareas, tiempos, agrupamientos, espacios, herramientas digitales y recursos técnicos.</p>
+<p><a href="https://docs.google.com/document/d/1qi5tT6sObKo8IRJ3wMU00KfuknhnNC2h/edit?usp=sharing&amp;ouid=115068993293996750482&amp;rtpof=true&amp;sd=true" title="https://docs.google.com/document/d/1qi5tT6sObKo8IRJ3wMU00KfuknhnNC2h/edit?usp=sharing&amp;ouid=115068993293996750482&amp;rtpof=true&amp;sd=true">[INSERTAR AQUÍ LA IMAGEN O ENLACE A LA LÍNEA TEMPORAL]</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778279383739-bgqawojov","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se incluye la línea temporal visual de la situación de aprendizaje, donde se organizan las sesiones, tareas, tiempos, agrupamientos, espacios, herramientas digitales y recursos técnicos.</p>\n<p><a href=\"https://docs.google.com/document/d/1qi5tT6sObKo8IRJ3wMU00KfuknhnNC2h/edit?usp=sharing&amp;ouid=115068993293996750482&amp;rtpof=true&amp;sd=true\" title=\"https://docs.google.com/document/d/1qi5tT6sObKo8IRJ3wMU00KfuknhnNC2h/edit?usp=sharing&amp;ouid=115068993293996750482&amp;rtpof=true&amp;sd=true\">[INSERTAR AQUÍ LA IMAGEN O ENLACE A LA LÍNEA TEMPORAL]</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778277278737-7qo55lvpr</odePageId>
+  <odeParentPageId>f89cd2f9-030b-4883-a4a2-2fcefa970e7e</odeParentPageId>
+  <pageName>8.Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778277278737-7qo55lvpr</odePageId>
+      <odeBlockId>block-1778278849863-58g0o4o1y</odeBlockId>
+      <blockName>Relación de tareas y criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778277278737-7qo55lvpr</odePageId>
+          <odeBlockId>block-1778278849863-58g0o4o1y</odeBlockId>
+          <odeIdeviceId>idevice-1778278849860-fw6h8xjww</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Guía didáctica</p>
+<p>Esta guía didáctica recoge la relación entre las tareas de la situación de aprendizaje y los criterios de evaluación asociados. Su finalidad es facilitar la aplicación del proyecto en el aula y servir de orientación para otros docentes.</p>
+<p>Datos generales</p>
+<p>Título de la SdA: Amar y perdonar: aprendemos con Jesús a cuidar a los demás</p>
+<p>Área: Religión Católica</p>
+<p>Nivel: Educación Primaria</p>
+<p>Producto final: mural digital colaborativo en Canva</p>
+<p>Relación entre tareas y criterios de evaluación</p>
+<p>| Tarea del alumnado | Criterio de evaluación | Agrupamiento | Herramienta |<br />| Lluvia de ideas inicial sobre el amor y el perdón. | Identificar emociones, sentimientos y vivencias, reconociéndolos también en los demás. | Gran grupo | Pizarra digital / Padlet |<br />| Visionado y comentario de una parábola de Jesús. | Observar valores fundamentales en relatos y personajes bíblicos. | Gran grupo | Vídeo / pizarra digital |<br />| Análisis de situaciones cotidianas: pedir perdón, perdonar y ayudar. | Identificar situaciones que favorecen la convivencia pacífica. | Parejas y gran grupo | Tarjetas digitales o impresas |<br />| Juego interactivo de valores. | Mostrar actitudes de respeto, mediación y cuidado del prójimo. | Parejas o pequeño grupo | Wordwall / Educaplay |<br />| Preparación del mural digital. | Relacionar aprendizajes con expresiones artísticas y creativas. | Pequeño grupo | Canva |<br />| Creación y presentación del mural “Amar y perdonar”. | Reconocer el mensaje de Jesús y valorar sus aportaciones para la persona y la sociedad. | Pequeño grupo y gran grupo | Canva / pizarra digital |</p>
+<p>Orientaciones para el profesorado</p>
+<p>La propuesta está diseñada para alumnado de Educación Primaria y debe aplicarse de forma flexible, teniendo en cuenta la edad, los ritmos de aprendizaje y el nivel de competencia digital del grupo.</p>
+<p>Se recomienda:</p>
+<p>- utilizar plantillas ya preparadas;<br />- revisar previamente todos los enlaces y recursos;<br />- evitar la navegación libre del alumnado;<br />- combinar recursos digitales con materiales impresos;<br />- organizar grupos heterogéneos;<br />- ofrecer apoyos visuales y orales;<br />- prever alternativas si falla la conexión o alguna herramienta;<br />- cuidar la protección de datos personales y la privacidad del alumnado.</p>
+<p>Atención a la diversidad y DUA</p>
+<p>La situación de aprendizaje ofrece diferentes formas de acceso a la información: imágenes, vídeos, diálogo oral, juegos interactivos, tarjetas y ejemplos cercanos.</p>
+<p>También permite diferentes formas de participación: expresión oral, selección de imágenes, escritura de palabras o frases breves, trabajo en parejas, trabajo en grupo y presentación del producto final.</p>
+<p>De este modo, se favorece la inclusión, la participación de todo el alumnado y el desarrollo progresivo de la competencia digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278849860-fw6h8xjww","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Guía didáctica</p>\n<p>Esta guía didáctica recoge la relación entre las tareas de la situación de aprendizaje y los criterios de evaluación asociados. Su finalidad es facilitar la aplicación del proyecto en el aula y servir de orientación para otros docentes.</p>\n<p>Datos generales</p>\n<p>Título de la SdA: Amar y perdonar: aprendemos con Jesús a cuidar a los demás</p>\n<p>Área: Religión Católica</p>\n<p>Nivel: Educación Primaria</p>\n<p>Producto final: mural digital colaborativo en Canva</p>\n<p>Relación entre tareas y criterios de evaluación</p>\n<p>| Tarea del alumnado | Criterio de evaluación | Agrupamiento | Herramienta |<br />| Lluvia de ideas inicial sobre el amor y el perdón. | Identificar emociones, sentimientos y vivencias, reconociéndolos también en los demás. | Gran grupo | Pizarra digital / Padlet |<br />| Visionado y comentario de una parábola de Jesús. | Observar valores fundamentales en relatos y personajes bíblicos. | Gran grupo | Vídeo / pizarra digital |<br />| Análisis de situaciones cotidianas: pedir perdón, perdonar y ayudar. | Identificar situaciones que favorecen la convivencia pacífica. | Parejas y gran grupo | Tarjetas digitales o impresas |<br />| Juego interactivo de valores. | Mostrar actitudes de respeto, mediación y cuidado del prójimo. | Parejas o pequeño grupo | Wordwall / Educaplay |<br />| Preparación del mural digital. | Relacionar aprendizajes con expresiones artísticas y creativas. | Pequeño grupo | Canva |<br />| Creación y presentación del mural “Amar y perdonar”. | Reconocer el mensaje de Jesús y valorar sus aportaciones para la persona y la sociedad. | Pequeño grupo y gran grupo | Canva / pizarra digital |</p>\n<p>Orientaciones para el profesorado</p>\n<p>La propuesta está diseñada para alumnado de Educación Primaria y debe aplicarse de forma flexible, teniendo en cuenta la edad, los ritmos de aprendizaje y el nivel de competencia digital del grupo.</p>\n<p>Se recomienda:</p>\n<p>- utilizar plantillas ya preparadas;<br />- revisar previamente todos los enlaces y recursos;<br />- evitar la navegación libre del alumnado;<br />- combinar recursos digitales con materiales impresos;<br />- organizar grupos heterogéneos;<br />- ofrecer apoyos visuales y orales;<br />- prever alternativas si falla la conexión o alguna herramienta;<br />- cuidar la protección de datos personales y la privacidad del alumnado.</p>\n<p>Atención a la diversidad y DUA</p>\n<p>La situación de aprendizaje ofrece diferentes formas de acceso a la información: imágenes, vídeos, diálogo oral, juegos interactivos, tarjetas y ejemplos cercanos.</p>\n<p>También permite diferentes formas de participación: expresión oral, selección de imágenes, escritura de palabras o frases breves, trabajo en parejas, trabajo en grupo y presentación del producto final.</p>\n<p>De este modo, se favorece la inclusión, la participación de todo el alumnado y el desarrollo progresivo de la competencia digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778277293709-1pj7z3qrc</odePageId>
+  <odeParentPageId>f89cd2f9-030b-4883-a4a2-2fcefa970e7e</odeParentPageId>
+  <pageName>9.Evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9.Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778277293709-1pj7z3qrc</odePageId>
+      <odeBlockId>block-1778278971231-8cum7lc16</odeBlockId>
+      <blockName>Instrumentos de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778277293709-1pj7z3qrc</odePageId>
+          <odeBlockId>block-1778278971231-8cum7lc16</odeBlockId>
+          <odeIdeviceId>idevice-1778278971228-201mrf3w8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Evaluación del proyecto</p>
+<p>La evaluación de esta situación de aprendizaje será continua, formativa y adaptada al nivel del alumnado. Se combinarán diferentes instrumentos para recoger información sobre el proceso, el producto final y la reflexión del alumnado.</p>
+<p>Instrumento 1: Lista de cotejo de observación</p>
+<p>Se utilizará durante las actividades de aula para observar la participación, la colaboración, el respeto a las normas de uso de la tecnología y la comprensión de los valores trabajados.</p>
+<p>Aspectos que se observarán:</p>
+<p>- participa en las actividades;<br />- escucha y respeta a los compañeros;<br />- identifica acciones relacionadas con el amor y el perdón;<br />- utiliza las herramientas digitales siguiendo las indicaciones;<br />- colabora con su pareja o grupo;<br />- cuida los dispositivos y materiales.</p>
+<p>Instrumento 2: Rúbrica del mural digital</p>
+<p>Se utilizará para valorar el producto final elaborado en Canva.</p>
+<p>La rúbrica tendrá en cuenta:</p>
+<p>- claridad del título;<br />- relación de imágenes y palabras con el amor y el perdón;<br />- inclusión de una frase breve;<br />- ejemplo de una acción cotidiana;<br />- colaboración dentro del grupo;<br />- presentación oral sencilla;<br />- uso responsable de la herramienta digital.</p>
+<p>Instrumento 3: Diana de autoevaluación</p>
+<p>Se utilizará al finalizar el proyecto para que el alumnado reflexione sobre su propio aprendizaje de forma sencilla y visual.</p>
+<p>El alumnado valorará si:</p>
+<p>- ha entendido qué significa amar y perdonar;<br />- ha participado en el grupo;<br />- ha cuidado los materiales y dispositivos;<br />- ha escuchado a sus compañeros;<br />- ha aportado ideas al mural;<br />- puede aplicar lo aprendido en la vida diaria.</p>
+<p>Recogida y análisis de datos</p>
+<p>Los datos se recogerán mediante observación directa, revisión del mural digital, participación oral y autoevaluación final.</p>
+<p>Esta información servirá para:</p>
+<p>- comprobar si se han alcanzado los criterios de evaluación;<br />- detectar dificultades del alumnado;<br />- ajustar los apoyos necesarios;<br />- valorar la eficacia de las herramientas digitales utilizadas;<br />- mejorar futuras propuestas didácticas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278971228-201mrf3w8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Evaluación del proyecto</p>\n<p>La evaluación de esta situación de aprendizaje será continua, formativa y adaptada al nivel del alumnado. Se combinarán diferentes instrumentos para recoger información sobre el proceso, el producto final y la reflexión del alumnado.</p>\n<p>Instrumento 1: Lista de cotejo de observación</p>\n<p>Se utilizará durante las actividades de aula para observar la participación, la colaboración, el respeto a las normas de uso de la tecnología y la comprensión de los valores trabajados.</p>\n<p>Aspectos que se observarán:</p>\n<p>- participa en las actividades;<br />- escucha y respeta a los compañeros;<br />- identifica acciones relacionadas con el amor y el perdón;<br />- utiliza las herramientas digitales siguiendo las indicaciones;<br />- colabora con su pareja o grupo;<br />- cuida los dispositivos y materiales.</p>\n<p>Instrumento 2: Rúbrica del mural digital</p>\n<p>Se utilizará para valorar el producto final elaborado en Canva.</p>\n<p>La rúbrica tendrá en cuenta:</p>\n<p>- claridad del título;<br />- relación de imágenes y palabras con el amor y el perdón;<br />- inclusión de una frase breve;<br />- ejemplo de una acción cotidiana;<br />- colaboración dentro del grupo;<br />- presentación oral sencilla;<br />- uso responsable de la herramienta digital.</p>\n<p>Instrumento 3: Diana de autoevaluación</p>\n<p>Se utilizará al finalizar el proyecto para que el alumnado reflexione sobre su propio aprendizaje de forma sencilla y visual.</p>\n<p>El alumnado valorará si:</p>\n<p>- ha entendido qué significa amar y perdonar;<br />- ha participado en el grupo;<br />- ha cuidado los materiales y dispositivos;<br />- ha escuchado a sus compañeros;<br />- ha aportado ideas al mural;<br />- puede aplicar lo aprendido en la vida diaria.</p>\n<p>Recogida y análisis de datos</p>\n<p>Los datos se recogerán mediante observación directa, revisión del mural digital, participación oral y autoevaluación final.</p>\n<p>Esta información servirá para:</p>\n<p>- comprobar si se han alcanzado los criterios de evaluación;<br />- detectar dificultades del alumnado;<br />- ajustar los apoyos necesarios;<br />- valorar la eficacia de las herramientas digitales utilizadas;<br />- mejorar futuras propuestas didácticas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778277312468-45uubaity</odePageId>
+  <odeParentPageId>f89cd2f9-030b-4883-a4a2-2fcefa970e7e</odeParentPageId>
+  <pageName>10.Créditos y descarga</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10.Créditos y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778277312468-45uubaity</odePageId>
+      <odeBlockId>block-1778279064381-9ky3bif6m</odeBlockId>
+      <blockName>Créditos del recurso</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778277312468-45uubaity</odePageId>
+          <odeBlockId>block-1778279064381-9ky3bif6m</odeBlockId>
+          <odeIdeviceId>idevice-1778279064378-xglwf9php</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Créditos y descarga</p>
+<p>Autoría</p>
+<p>Autora: María del Carmen Barranco Domínguez</p>
+<p>Título del recurso</p>
+<p>Amar y perdonar: aprendemos con Jesús a cuidar a los demás**</p>
+<p>Descripción</p>
+<p>Este recurso educativo digital ha sido creado como situación de aprendizaje para el área de Religión Católica en Educación Primaria.</p>
+<p>El alumnado trabajará las enseñanzas de Jesús relacionadas con el amor, el perdón, la ayuda, la amistad y la convivencia positiva. A lo largo del proyecto se utilizarán recursos digitales de forma guiada y segura, y se elaborará como producto final un mural digital colaborativo en Canva.</p>
+<p>Licencia de uso</p>
+<p>Este recurso se publica bajo licencia:</p>
+<p>Creative Commons Reconocimiento - Compartir Igual 4.0 Internacional**</p>
+<p>Esto permite compartir y adaptar el material, siempre que se reconozca la autoría y se comparta con la misma licencia.</p>
+<p>Créditos de recursos digitales utilizados</p>
+<p>En este proyecto se han utilizado o enlazado los siguientes recursos y herramientas digitales:</p>
+<p>- Padlet: panel de curación de contenidos para el alumnado.  <br />  Herramienta: https://padlet.com/</p>
+<p>- Wakelet: panel de curación de herramientas para el profesorado.  <br />  Herramienta: https://wakelet.com/</p>
+<p>- Canva: herramienta propuesta para la creación del mural digital colaborativo.  <br />  Herramienta: https://www.canva.com/</p>
+<p>- Wordwall: herramienta propuesta para actividades interactivas de repaso.  <br />  Herramienta: https://wordwall.net/</p>
+<p>- Educaplay: herramienta propuesta para actividades educativas interactivas.  <br />  Herramienta: https://www.educaplay.com/</p>
+<p>- eXeLearning: herramienta libre y gratuita utilizada para crear este recurso educativo digital.  <br />  Herramienta: https://exelearning.net/</p>
+<p>Imágenes, vídeos y materiales externos</p>
+<p>Las imágenes, vídeos o recursos externos que se utilicen en el aula serán previamente revisados por la docente y deberán respetar los derechos de autor, citando siempre su procedencia y licencia cuando corresponda.</p>
+<p>En caso de utilizar imágenes libres, se recomienda emplear bancos de imágenes con licencia abierta, como Pixabay, Wikimedia Commons o recursos propios elaborados por la docente.</p>
+<p>Descarga del archivo editable</p>
+<p>El archivo editable de este recurso estará disponible para su descarga desde el siguiente enlace:</p>
+<p>Descargar archivo editable eXeLearning (.elp):**  <br />[PEGA AQUÍ EL ENLACE CUANDO SUBAS EL ARCHIVO .ELP]</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778279064378-xglwf9php","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Créditos y descarga</p>\n<p>Autoría</p>\n<p>Autora: María del Carmen Barranco Domínguez</p>\n<p>Título del recurso</p>\n<p>Amar y perdonar: aprendemos con Jesús a cuidar a los demás**</p>\n<p>Descripción</p>\n<p>Este recurso educativo digital ha sido creado como situación de aprendizaje para el área de Religión Católica en Educación Primaria.</p>\n<p>El alumnado trabajará las enseñanzas de Jesús relacionadas con el amor, el perdón, la ayuda, la amistad y la convivencia positiva. A lo largo del proyecto se utilizarán recursos digitales de forma guiada y segura, y se elaborará como producto final un mural digital colaborativo en Canva.</p>\n<p>Licencia de uso</p>\n<p>Este recurso se publica bajo licencia:</p>\n<p>Creative Commons Reconocimiento - Compartir Igual 4.0 Internacional**</p>\n<p>Esto permite compartir y adaptar el material, siempre que se reconozca la autoría y se comparta con la misma licencia.</p>\n<p>Créditos de recursos digitales utilizados</p>\n<p>En este proyecto se han utilizado o enlazado los siguientes recursos y herramientas digitales:</p>\n<p>- Padlet: panel de curación de contenidos para el alumnado.  <br />  Herramienta: https://padlet.com/</p>\n<p>- Wakelet: panel de curación de herramientas para el profesorado.  <br />  Herramienta: https://wakelet.com/</p>\n<p>- Canva: herramienta propuesta para la creación del mural digital colaborativo.  <br />  Herramienta: https://www.canva.com/</p>\n<p>- Wordwall: herramienta propuesta para actividades interactivas de repaso.  <br />  Herramienta: https://wordwall.net/</p>\n<p>- Educaplay: herramienta propuesta para actividades educativas interactivas.  <br />  Herramienta: https://www.educaplay.com/</p>\n<p>- eXeLearning: herramienta libre y gratuita utilizada para crear este recurso educativo digital.  <br />  Herramienta: https://exelearning.net/</p>\n<p>Imágenes, vídeos y materiales externos</p>\n<p>Las imágenes, vídeos o recursos externos que se utilicen en el aula serán previamente revisados por la docente y deberán respetar los derechos de autor, citando siempre su procedencia y licencia cuando corresponda.</p>\n<p>En caso de utilizar imágenes libres, se recomienda emplear bancos de imágenes con licencia abierta, como Pixabay, Wikimedia Commons o recursos propios elaborados por la docente.</p>\n<p>Descarga del archivo editable</p>\n<p>El archivo editable de este recurso estará disponible para su descarga desde el siguiente enlace:</p>\n<p>Descargar archivo editable eXeLearning (.elp):**  <br />[PEGA AQUÍ EL ENLACE CUANDO SUBAS EL ARCHIVO .ELP]</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
