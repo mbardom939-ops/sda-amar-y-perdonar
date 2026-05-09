@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260509003509AEQ1LZ</value>
+    <value>20260509172924D4H5K2</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260509003509N451I1</value>
+    <value>20260509172924R4PO0F</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -153,14 +153,25 @@
           <odeIdeviceId>idevice-1778277549159-01z4xdx1r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Amar y perdonar: aprendemos con Jesús a cuidar a los demás<br />Situación de aprendizaje de Religión Católica<br />Este recurso digital presenta una situación de aprendizaje para el área de Religión Católica en Educación Primaria. A través de actividades guiadas, recursos digitales y trabajo colaborativo, el alumnado conocerá algunas enseñanzas de Jesús relacionadas con el amor, el perdón, la ayuda a los demás, la amistad y la convivencia positiva.</p>
+    <h4>Amar y perdonar: aprendemos con Jesús a cuidar a los demás.</h4>
+<h5>Situación de aprendizaje de Religión Católica.</h5>
+<p style="text-align: justify;">Este recurso digital presenta una situación de aprendizaje para el área de Religión Católica en Educación Primaria. A través de actividades guiadas, recursos digitales y trabajo colaborativo, el alumnado conocerá algunas enseñanzas de Jesús relacionadas con el amor, el perdón, la ayuda a los demás, la amistad y la convivencia positiva.</p>
 <p>El proyecto está pensado para que el alumnado aprenda de forma activa, visual y sencilla, utilizando la tecnología de manera segura, responsable y guiada.</p>
-<p>¿Qué vamos a hacer?<br />Durante esta situación de aprendizaje vamos a:</p>
-<p>hablar sobre qué significan el amor y el perdón;<br />conocer relatos y enseñanzas de Jesús;<br />pensar en situaciones de la vida diaria en las que podemos pedir perdón, perdonar y ayudar;<br />realizar actividades digitales sencillas;<br />trabajar en parejas o pequeños grupos;<br />crear un mural digital colaborativo sobre el amor y el perdón.<br />Producto final<br />El producto final será un mural digital titulado:</p>
-<p>“Amar y perdonar”</p>
+<h6>¿Qué vamos a hacer?</h6>
+<p>Durante esta situación de aprendizaje vamos a:</p>
+<ul style="list-style-type: circle;">
+<li>Hablar sobre qué significan el amor y el perdón.</li>
+<li>Conocer relatos y enseñanzas de Jesús.</li>
+<li>Pensar en situaciones de la vida diaria en las que podemos pedir perdón, perdonar y ayudar.</li>
+<li>Realizar actividades digitales sencillas.</li>
+<li>Trabajar en parejas o pequeños grupos.</li>
+<li>Crear un mural digital colaborativo sobre el amor y el perdón.<br /></li>
+</ul>
+<h6>Producto final</h6>
+<p>El producto final será un mural digital titulado: “Amar y perdonar”.</p>
 <p>En él se incluirán imágenes, palabras, frases breves y ejemplos de acciones cotidianas relacionadas con el amor y el perdón.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277549159-01z4xdx1r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Amar y perdonar: aprendemos con Jesús a cuidar a los demás<br />Situación de aprendizaje de Religión Católica<br />Este recurso digital presenta una situación de aprendizaje para el área de Religión Católica en Educación Primaria. A través de actividades guiadas, recursos digitales y trabajo colaborativo, el alumnado conocerá algunas enseñanzas de Jesús relacionadas con el amor, el perdón, la ayuda a los demás, la amistad y la convivencia positiva.</p>\n<p>El proyecto está pensado para que el alumnado aprenda de forma activa, visual y sencilla, utilizando la tecnología de manera segura, responsable y guiada.</p>\n<p>¿Qué vamos a hacer?<br />Durante esta situación de aprendizaje vamos a:</p>\n<p>hablar sobre qué significan el amor y el perdón;<br />conocer relatos y enseñanzas de Jesús;<br />pensar en situaciones de la vida diaria en las que podemos pedir perdón, perdonar y ayudar;<br />realizar actividades digitales sencillas;<br />trabajar en parejas o pequeños grupos;<br />crear un mural digital colaborativo sobre el amor y el perdón.<br />Producto final<br />El producto final será un mural digital titulado:</p>\n<p>“Amar y perdonar”</p>\n<p>En él se incluirán imágenes, palabras, frases breves y ejemplos de acciones cotidianas relacionadas con el amor y el perdón.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277549159-01z4xdx1r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4>Amar y perdonar: aprendemos con Jesús a cuidar a los demás.</h4>\n<h5>Situación de aprendizaje de Religión Católica.</h5>\n<p style=\"text-align: justify;\">Este recurso digital presenta una situación de aprendizaje para el área de Religión Católica en Educación Primaria. A través de actividades guiadas, recursos digitales y trabajo colaborativo, el alumnado conocerá algunas enseñanzas de Jesús relacionadas con el amor, el perdón, la ayuda a los demás, la amistad y la convivencia positiva.</p>\n<p>El proyecto está pensado para que el alumnado aprenda de forma activa, visual y sencilla, utilizando la tecnología de manera segura, responsable y guiada.</p>\n<h6>¿Qué vamos a hacer?</h6>\n<p>Durante esta situación de aprendizaje vamos a:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Hablar sobre qué significan el amor y el perdón.</li>\n<li>Conocer relatos y enseñanzas de Jesús.</li>\n<li>Pensar en situaciones de la vida diaria en las que podemos pedir perdón, perdonar y ayudar.</li>\n<li>Realizar actividades digitales sencillas.</li>\n<li>Trabajar en parejas o pequeños grupos.</li>\n<li>Crear un mural digital colaborativo sobre el amor y el perdón.<br /></li>\n</ul>\n<h6>Producto final</h6>\n<p>El producto final será un mural digital titulado: “Amar y perdonar”.</p>\n<p>En él se incluirán imágenes, palabras, frases breves y ejemplos de acciones cotidianas relacionadas con el amor y el perdón.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -216,16 +227,23 @@
           <odeIdeviceId>idevice-1778277773511-phyxm3sz8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Título<br />Amar y perdonar: aprendemos con Jesús a cuidar a los demás</p>
-<p>Área y nivel<br />Religión Católica — Educación Primaria</p>
-<p>Descripción<br />Esta situación de aprendizaje se centra en las enseñanzas de Jesús relacionadas con el amor, el perdón, la misericordia, la amistad y el cuidado de los demás.</p>
+    <p><strong>Título</strong><br />Amar y perdonar: aprendemos con Jesús a cuidar a los demás.</p>
+<p><strong>Área y nivel</strong><br />Religión Católica — Educación Primaria.</p>
+<p><strong>Descripción</strong><br />Esta situación de aprendizaje se centra en las enseñanzas de Jesús relacionadas con el amor, el perdón, la misericordia, la amistad y el cuidado de los demás.</p>
 <p>A través de actividades sencillas y adaptadas a la edad del alumnado, se trabajarán situaciones cercanas a su vida cotidiana: pedir perdón, perdonar a un compañero, compartir, ayudar, hacer las paces y tratar bien a los demás.</p>
 <p>El alumnado utilizará recursos digitales de forma guiada y responsable, siempre con acompañamiento docente. La finalidad no es solo aprender contenidos del área de Religión Católica, sino también desarrollar la competencia digital mediante un uso seguro, crítico y creativo de las herramientas disponibles en el centro.</p>
-<p>Objetivos de aprendizaje<br />Al finalizar la situación de aprendizaje, el alumnado será capaz de:</p>
-<p>reconocer el amor y el perdón como valores presentes en las enseñanzas de Jesús;<br />identificar situaciones cotidianas en las que puede pedir perdón, perdonar y ayudar;<br />participar en actividades colaborativas respetando las ideas de los compañeros;<br />utilizar herramientas digitales sencillas de forma segura y guiada;<br />crear un mural digital con imágenes, palabras y frases breves sobre el amor y el perdón.<br />Metodología<br />La propuesta se basa en una metodología activa, visual y participativa. Se combinarán actividades de diálogo, visionado de recursos audiovisuales, juegos interactivos, trabajo en parejas, trabajo en pequeño grupo y creación de un producto final digital.</p>
+<p><strong>Objetivos de aprendizaje</strong><br />Al finalizar la situación de aprendizaje, el alumnado será capaz de:</p>
+<ul style="list-style-type: circle;">
+<li>Reconocer el amor y el perdón como valores presentes en las enseñanzas de Jesús.</li>
+<li>Identificar situaciones cotidianas en las que puede pedir perdón, perdonar y ayudar.</li>
+<li>Participar en actividades colaborativas respetando las ideas de los compañeros.</li>
+<li>Utilizar herramientas digitales sencillas de forma segura y guiada.</li>
+<li>Crear un mural digital con imágenes, palabras y frases breves sobre el amor y el perdón.<br /></li>
+</ul>
+<p><strong>Metodología</strong><br />La propuesta se basa en una metodología activa, visual y participativa. Se combinarán actividades de diálogo, visionado de recursos audiovisuales, juegos interactivos, trabajo en parejas, trabajo en pequeño grupo y creación de un producto final digital.</p>
 <p>El uso de la tecnología será progresivo y adaptado al nivel del alumnado. La docente proporcionará plantillas, recursos revisados y pautas claras para facilitar la participación de todo el grupo.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277773511-phyxm3sz8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Título<br />Amar y perdonar: aprendemos con Jesús a cuidar a los demás</p>\n<p>Área y nivel<br />Religión Católica — Educación Primaria</p>\n<p>Descripción<br />Esta situación de aprendizaje se centra en las enseñanzas de Jesús relacionadas con el amor, el perdón, la misericordia, la amistad y el cuidado de los demás.</p>\n<p>A través de actividades sencillas y adaptadas a la edad del alumnado, se trabajarán situaciones cercanas a su vida cotidiana: pedir perdón, perdonar a un compañero, compartir, ayudar, hacer las paces y tratar bien a los demás.</p>\n<p>El alumnado utilizará recursos digitales de forma guiada y responsable, siempre con acompañamiento docente. La finalidad no es solo aprender contenidos del área de Religión Católica, sino también desarrollar la competencia digital mediante un uso seguro, crítico y creativo de las herramientas disponibles en el centro.</p>\n<p>Objetivos de aprendizaje<br />Al finalizar la situación de aprendizaje, el alumnado será capaz de:</p>\n<p>reconocer el amor y el perdón como valores presentes en las enseñanzas de Jesús;<br />identificar situaciones cotidianas en las que puede pedir perdón, perdonar y ayudar;<br />participar en actividades colaborativas respetando las ideas de los compañeros;<br />utilizar herramientas digitales sencillas de forma segura y guiada;<br />crear un mural digital con imágenes, palabras y frases breves sobre el amor y el perdón.<br />Metodología<br />La propuesta se basa en una metodología activa, visual y participativa. Se combinarán actividades de diálogo, visionado de recursos audiovisuales, juegos interactivos, trabajo en parejas, trabajo en pequeño grupo y creación de un producto final digital.</p>\n<p>El uso de la tecnología será progresivo y adaptado al nivel del alumnado. La docente proporcionará plantillas, recursos revisados y pautas claras para facilitar la participación de todo el grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277773511-phyxm3sz8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Título</strong><br />Amar y perdonar: aprendemos con Jesús a cuidar a los demás.</p>\n<p><strong>Área y nivel</strong><br />Religión Católica — Educación Primaria.</p>\n<p><strong>Descripción</strong><br />Esta situación de aprendizaje se centra en las enseñanzas de Jesús relacionadas con el amor, el perdón, la misericordia, la amistad y el cuidado de los demás.</p>\n<p>A través de actividades sencillas y adaptadas a la edad del alumnado, se trabajarán situaciones cercanas a su vida cotidiana: pedir perdón, perdonar a un compañero, compartir, ayudar, hacer las paces y tratar bien a los demás.</p>\n<p>El alumnado utilizará recursos digitales de forma guiada y responsable, siempre con acompañamiento docente. La finalidad no es solo aprender contenidos del área de Religión Católica, sino también desarrollar la competencia digital mediante un uso seguro, crítico y creativo de las herramientas disponibles en el centro.</p>\n<p><strong>Objetivos de aprendizaje</strong><br />Al finalizar la situación de aprendizaje, el alumnado será capaz de:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Reconocer el amor y el perdón como valores presentes en las enseñanzas de Jesús.</li>\n<li>Identificar situaciones cotidianas en las que puede pedir perdón, perdonar y ayudar.</li>\n<li>Participar en actividades colaborativas respetando las ideas de los compañeros.</li>\n<li>Utilizar herramientas digitales sencillas de forma segura y guiada.</li>\n<li>Crear un mural digital con imágenes, palabras y frases breves sobre el amor y el perdón.<br /></li>\n</ul>\n<p><strong>Metodología</strong><br />La propuesta se basa en una metodología activa, visual y participativa. Se combinarán actividades de diálogo, visionado de recursos audiovisuales, juegos interactivos, trabajo en parejas, trabajo en pequeño grupo y creación de un producto final digital.</p>\n<p>El uso de la tecnología será progresivo y adaptado al nivel del alumnado. La docente proporcionará plantillas, recursos revisados y pautas claras para facilitar la participación de todo el grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -281,14 +299,31 @@
           <odeIdeviceId>idevice-1778277901192-xvh04r74a</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Protección de datos personales y derechos digitales<br />En este proyecto vamos a utilizar algunas herramientas digitales para aprender, crear y colaborar. Para hacerlo de forma segura, es importante respetar unas normas básicas.</p>
-<p>Normas para el alumnado<br />Cuando utilicemos herramientas digitales en clase:</p>
-<p>no escribiremos apellidos, direcciones, teléfonos ni otros datos personales;<br />no subiremos fotos propias ni de compañeros;<br />usaremos solo las páginas y recursos indicados por la docente;<br />respetaremos el trabajo de los compañeros;<br />no borraremos ni modificaremos el trabajo de otros grupos;<br />utilizaremos imágenes y materiales revisados por la docente;<br />pediremos ayuda si aparece algo que no entendemos o que no corresponde a la actividad;<br />cuidaremos los dispositivos del centro;<br />usaremos la tecnología solo durante el tiempo necesario para la tarea.<br />Huella digital<br />Todo lo que hacemos en internet puede dejar rastro. Por eso, en este proyecto aprenderemos a usar la tecnología con cuidado, pensando antes de publicar, compartir o modificar cualquier contenido.</p>
-<p>Derechos digitales<br />Todo el alumnado tiene derecho a aprender en un entorno seguro, respetuoso y adaptado a sus necesidades. Por eso, las actividades digitales se realizarán de forma guiada, con materiales adecuados a la edad y evitando compartir información personal.</p>
-<p>Recomendaciones para las familias<br />Las familias pueden acompañar este aprendizaje recordando en casa algunas ideas sencillas:</p>
-<p>no compartir datos personales en internet;<br />pedir ayuda a una persona adulta ante cualquier duda;<br />usar los dispositivos durante un tiempo adecuado;<br />hablar con respeto también en los entornos digitales;<br />cuidar la privacidad propia y la de los demás.</p>
+    <p><strong>Protección de datos personales y derechos digitales</strong><br />En este proyecto vamos a utilizar algunas herramientas digitales para aprender, crear y colaborar. Para hacerlo de forma segura, es importante respetar unas normas básicas.</p>
+<p><strong>Normas para el alumnado</strong><br />Cuando utilicemos herramientas digitales en clase:</p>
+<ul style="list-style-type: circle;">
+<li>No escribiremos apellidos, direcciones, teléfonos ni otros datos personales.</li>
+<li>No subiremos fotos propias ni de compañeros.</li>
+<li>Usaremos solo las páginas y recursos indicados por la docente.</li>
+<li>Respetaremos el trabajo de los compañeros.</li>
+<li>No borraremos ni modificaremos el trabajo de otros grupos.</li>
+<li>Utilizaremos imágenes y materiales revisados por la docente.</li>
+<li>Pediremos ayuda si aparece algo que no entendemos o que no corresponde a la actividad.</li>
+<li>Cuidaremos los dispositivos del centro.</li>
+<li>Usaremos la tecnología solo durante el tiempo necesario para la tarea.<br /></li>
+</ul>
+<p><strong>Huella digital</strong><br />Todo lo que hacemos en internet puede dejar rastro. Por eso, en este proyecto aprenderemos a usar la tecnología con cuidado, pensando antes de publicar, compartir o modificar cualquier contenido.</p>
+<p><strong>Derechos digitales</strong><br />Todo el alumnado tiene derecho a aprender en un entorno seguro, respetuoso y adaptado a sus necesidades. Por eso, las actividades digitales se realizarán de forma guiada, con materiales adecuados a la edad y evitando compartir información personal.</p>
+<p><strong>Recomendaciones para las familias</strong><br />Las familias pueden acompañar este aprendizaje recordando en casa algunas ideas sencillas:</p>
+<ul style="list-style-type: circle;">
+<li>No compartir datos personales en internet.</li>
+<li>Pedir ayuda a una persona adulta ante cualquier duda.</li>
+<li>Usar los dispositivos durante un tiempo adecuado.</li>
+<li>Hablar con respeto también en los entornos digitales.</li>
+<li>Cuidar la privacidad propia y la de los demás.</li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277901192-xvh04r74a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Protección de datos personales y derechos digitales<br />En este proyecto vamos a utilizar algunas herramientas digitales para aprender, crear y colaborar. Para hacerlo de forma segura, es importante respetar unas normas básicas.</p>\n<p>Normas para el alumnado<br />Cuando utilicemos herramientas digitales en clase:</p>\n<p>no escribiremos apellidos, direcciones, teléfonos ni otros datos personales;<br />no subiremos fotos propias ni de compañeros;<br />usaremos solo las páginas y recursos indicados por la docente;<br />respetaremos el trabajo de los compañeros;<br />no borraremos ni modificaremos el trabajo de otros grupos;<br />utilizaremos imágenes y materiales revisados por la docente;<br />pediremos ayuda si aparece algo que no entendemos o que no corresponde a la actividad;<br />cuidaremos los dispositivos del centro;<br />usaremos la tecnología solo durante el tiempo necesario para la tarea.<br />Huella digital<br />Todo lo que hacemos en internet puede dejar rastro. Por eso, en este proyecto aprenderemos a usar la tecnología con cuidado, pensando antes de publicar, compartir o modificar cualquier contenido.</p>\n<p>Derechos digitales<br />Todo el alumnado tiene derecho a aprender en un entorno seguro, respetuoso y adaptado a sus necesidades. Por eso, las actividades digitales se realizarán de forma guiada, con materiales adecuados a la edad y evitando compartir información personal.</p>\n<p>Recomendaciones para las familias<br />Las familias pueden acompañar este aprendizaje recordando en casa algunas ideas sencillas:</p>\n<p>no compartir datos personales en internet;<br />pedir ayuda a una persona adulta ante cualquier duda;<br />usar los dispositivos durante un tiempo adecuado;<br />hablar con respeto también en los entornos digitales;<br />cuidar la privacidad propia y la de los demás.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277901192-xvh04r74a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Protección de datos personales y derechos digitales</strong><br />En este proyecto vamos a utilizar algunas herramientas digitales para aprender, crear y colaborar. Para hacerlo de forma segura, es importante respetar unas normas básicas.</p>\n<p><strong>Normas para el alumnado</strong><br />Cuando utilicemos herramientas digitales en clase:</p>\n<ul style=\"list-style-type: circle;\">\n<li>No escribiremos apellidos, direcciones, teléfonos ni otros datos personales.</li>\n<li>No subiremos fotos propias ni de compañeros.</li>\n<li>Usaremos solo las páginas y recursos indicados por la docente.</li>\n<li>Respetaremos el trabajo de los compañeros.</li>\n<li>No borraremos ni modificaremos el trabajo de otros grupos.</li>\n<li>Utilizaremos imágenes y materiales revisados por la docente.</li>\n<li>Pediremos ayuda si aparece algo que no entendemos o que no corresponde a la actividad.</li>\n<li>Cuidaremos los dispositivos del centro.</li>\n<li>Usaremos la tecnología solo durante el tiempo necesario para la tarea.<br /></li>\n</ul>\n<p><strong>Huella digital</strong><br />Todo lo que hacemos en internet puede dejar rastro. Por eso, en este proyecto aprenderemos a usar la tecnología con cuidado, pensando antes de publicar, compartir o modificar cualquier contenido.</p>\n<p><strong>Derechos digitales</strong><br />Todo el alumnado tiene derecho a aprender en un entorno seguro, respetuoso y adaptado a sus necesidades. Por eso, las actividades digitales se realizarán de forma guiada, con materiales adecuados a la edad y evitando compartir información personal.</p>\n<p><strong>Recomendaciones para las familias</strong><br />Las familias pueden acompañar este aprendizaje recordando en casa algunas ideas sencillas:</p>\n<ul style=\"list-style-type: circle;\">\n<li>No compartir datos personales en internet.</li>\n<li>Pedir ayuda a una persona adulta ante cualquier duda.</li>\n<li>Usar los dispositivos durante un tiempo adecuado.</li>\n<li>Hablar con respeto también en los entornos digitales.</li>\n<li>Cuidar la privacidad propia y la de los demás.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -344,17 +379,39 @@
           <odeIdeviceId>idevice-1778277999965-uw1ntt95n</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Producto final: mural digital “Amar y perdonar”<br />El producto final de esta situación de aprendizaje será un mural digital colaborativo elaborado con la herramienta Canva.</p>
-<p>¿Qué tendrá que hacer el alumnado?<br />El alumnado trabajará en parejas o pequeños grupos para crear un mural digital sencillo sobre las enseñanzas de Jesús relacionadas con el amor y el perdón.</p>
+    <p><strong>Producto final: mural digital “Amar y perdonar”</strong><br />El producto final de esta situación de aprendizaje será un mural digital colaborativo elaborado con la herramienta Canva.</p>
+<p><strong>¿Qué tendrá que hacer el alumnado?</strong><br />El alumnado trabajará en parejas o pequeños grupos para crear un mural digital sencillo sobre las enseñanzas de Jesús relacionadas con el amor y el perdón.</p>
 <p>El mural deberá incluir:</p>
-<p>un título claro;<br />palabras importantes: amor, perdón, ayuda, respeto, paz, amistad;<br />imágenes relacionadas con el amor y el perdón;<br />una frase breve;<br />un ejemplo de la vida diaria donde podamos amar, pedir perdón o perdonar;<br />una presentación oral sencilla del trabajo realizado.<br />Herramienta digital<br />La herramienta principal será:</p>
-<p>Canva</p>
+<ul style="list-style-type: circle;">
+<li>Un título claro.</li>
+<li>Palabras importantes: amor, perdón, ayuda, respeto, paz, amistad.</li>
+<li>Imágenes relacionadas con el amor y el perdón.</li>
+<li>Una frase breve.</li>
+<li>Un ejemplo de la vida diaria donde podamos amar, pedir perdón o perdonar.</li>
+<li>Una presentación oral sencilla del trabajo realizado.<br /></li>
+</ul>
+<p><strong>Herramienta digital</strong><br />La herramienta principal será: Canva.</p>
 <p>La docente preparará una plantilla base para que el alumnado pueda trabajar de forma guiada. Así, cada grupo podrá centrarse en elegir palabras, imágenes y frases adecuadas sin tener que diseñar todo desde cero.</p>
-<p>Organización del trabajo<br />El trabajo se realizará en:</p>
-<p>parejas o pequeños grupos;<br />aula ordinaria o rincón TIC;<br />con apoyo de la pizarra digital;<br />con acompañamiento docente;<br />utilizando imágenes y recursos revisados previamente.<br />Finalidad del producto<br />El mural servirá para demostrar lo aprendido durante el proyecto y para compartir con la clase acciones concretas relacionadas con:</p>
-<p>querer a los demás;<br />pedir perdón;<br />perdonar;<br />ayudar;<br />compartir;<br />hacer las paces;<br />cuidar a las personas cercanas.</p>
+<p><strong>Organización del trabajo</strong><br />El trabajo se realizará en:</p>
+<ul style="list-style-type: circle;">
+<li>Parejas o pequeños grupos.</li>
+<li>Aula ordinaria o rincón TIC.</li>
+<li>Con apoyo de la pizarra digital.</li>
+<li>Con acompañamiento docente.</li>
+<li>Utilizando imágenes y recursos revisados previamente.<br /></li>
+</ul>
+<p><strong>Finalidad del producto</strong><br />El mural servirá para demostrar lo aprendido durante el proyecto y para compartir con la clase acciones concretas relacionadas con:</p>
+<ul style="list-style-type: circle;">
+<li>Querer a los demás.</li>
+<li>Pedir perdón.</li>
+<li>Perdonar.</li>
+<li>Ayudar.</li>
+<li>Compartir.</li>
+<li>Hacer las paces.</li>
+<li>Cuidar a las personas cercanas.</li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277999965-uw1ntt95n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Producto final: mural digital “Amar y perdonar”<br />El producto final de esta situación de aprendizaje será un mural digital colaborativo elaborado con la herramienta Canva.</p>\n<p>¿Qué tendrá que hacer el alumnado?<br />El alumnado trabajará en parejas o pequeños grupos para crear un mural digital sencillo sobre las enseñanzas de Jesús relacionadas con el amor y el perdón.</p>\n<p>El mural deberá incluir:</p>\n<p>un título claro;<br />palabras importantes: amor, perdón, ayuda, respeto, paz, amistad;<br />imágenes relacionadas con el amor y el perdón;<br />una frase breve;<br />un ejemplo de la vida diaria donde podamos amar, pedir perdón o perdonar;<br />una presentación oral sencilla del trabajo realizado.<br />Herramienta digital<br />La herramienta principal será:</p>\n<p>Canva</p>\n<p>La docente preparará una plantilla base para que el alumnado pueda trabajar de forma guiada. Así, cada grupo podrá centrarse en elegir palabras, imágenes y frases adecuadas sin tener que diseñar todo desde cero.</p>\n<p>Organización del trabajo<br />El trabajo se realizará en:</p>\n<p>parejas o pequeños grupos;<br />aula ordinaria o rincón TIC;<br />con apoyo de la pizarra digital;<br />con acompañamiento docente;<br />utilizando imágenes y recursos revisados previamente.<br />Finalidad del producto<br />El mural servirá para demostrar lo aprendido durante el proyecto y para compartir con la clase acciones concretas relacionadas con:</p>\n<p>querer a los demás;<br />pedir perdón;<br />perdonar;<br />ayudar;<br />compartir;<br />hacer las paces;<br />cuidar a las personas cercanas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778277999965-uw1ntt95n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Producto final: mural digital “Amar y perdonar”</strong><br />El producto final de esta situación de aprendizaje será un mural digital colaborativo elaborado con la herramienta Canva.</p>\n<p><strong>¿Qué tendrá que hacer el alumnado?</strong><br />El alumnado trabajará en parejas o pequeños grupos para crear un mural digital sencillo sobre las enseñanzas de Jesús relacionadas con el amor y el perdón.</p>\n<p>El mural deberá incluir:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Un título claro.</li>\n<li>Palabras importantes: amor, perdón, ayuda, respeto, paz, amistad.</li>\n<li>Imágenes relacionadas con el amor y el perdón.</li>\n<li>Una frase breve.</li>\n<li>Un ejemplo de la vida diaria donde podamos amar, pedir perdón o perdonar.</li>\n<li>Una presentación oral sencilla del trabajo realizado.<br /></li>\n</ul>\n<p><strong>Herramienta digital</strong><br />La herramienta principal será: Canva.</p>\n<p>La docente preparará una plantilla base para que el alumnado pueda trabajar de forma guiada. Así, cada grupo podrá centrarse en elegir palabras, imágenes y frases adecuadas sin tener que diseñar todo desde cero.</p>\n<p><strong>Organización del trabajo</strong><br />El trabajo se realizará en:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Parejas o pequeños grupos.</li>\n<li>Aula ordinaria o rincón TIC.</li>\n<li>Con apoyo de la pizarra digital.</li>\n<li>Con acompañamiento docente.</li>\n<li>Utilizando imágenes y recursos revisados previamente.<br /></li>\n</ul>\n<p><strong>Finalidad del producto</strong><br />El mural servirá para demostrar lo aprendido durante el proyecto y para compartir con la clase acciones concretas relacionadas con:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Querer a los demás.</li>\n<li>Pedir perdón.</li>\n<li>Perdonar.</li>\n<li>Ayudar.</li>\n<li>Compartir.</li>\n<li>Hacer las paces.</li>\n<li>Cuidar a las personas cercanas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -410,16 +467,27 @@
           <odeIdeviceId>idevice-1778278097897-51hnpe1uo</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Recursos para el alumnado<br />En esta página encontrarás los materiales que utilizaremos durante el proyecto para aprender sobre el amor y el perdón.</p>
+    <p><strong>Recursos para el alumnado</strong><br />En esta página encontrarás los materiales que utilizaremos durante el proyecto para aprender sobre el amor y el perdón.</p>
 <p>Estos recursos nos ayudarán a:</p>
-<p>conocer enseñanzas de Jesús;<br />pensar en situaciones de nuestra vida diaria;<br />realizar actividades digitales sencillas;<br />preparar el mural final “Amar y perdonar”.<br />Panel de recursos<br />La docente ha preparado un panel de recursos con vídeos, actividades, palabras importantes y materiales de apoyo.</p>
-<p>Enlace al Padlet del alumnado:</p>
-<p><a href="https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2">https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2</a></p>
-<p>¿Cómo usaremos estos recursos?<br title="" />Utilizaremos el Padlet de forma guiada en clase. No será necesario navegar libremente por internet. La docente indicará qué recurso vamos a consultar en cada momento.<a href="https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2">https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2</a></p>
-<p>Recordamos<br />Cuando utilicemos estos recursos:</p>
-<p>seguiremos las indicaciones de la docente;<br />no escribiremos datos personales;<br />no modificaremos el trabajo de otros grupos;<br />pediremos ayuda si algo no funciona;<br />cuidaremos los dispositivos del centro.<br /> </p>
+<ul style="list-style-type: circle;">
+<li>Conocer enseñanzas de Jesús.</li>
+<li>Pensar en situaciones de nuestra vida diaria.</li>
+<li>Realizar actividades digitales sencillas.</li>
+<li>Reparar el mural final “Amar y perdonar”.<br /></li>
+</ul>
+<p><strong>Panel de recursos</strong><br />La docente ha preparado un panel de recursos con vídeos, actividades, palabras importantes y materiales de apoyo.</p>
+<p>⇒<a href="https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2" title="">Enlace al Padlet del alumnado.</a></p>
+<p><strong>¿Cómo usaremos estos recursos?</strong><br title="" />Utilizaremos el Padlet de forma guiada en clase. No será necesario navegar libremente por Internet. La docente indicará qué recurso vamos a consultar en cada momento.</p>
+<p><strong>Recordamos</strong><br />Cuando utilicemos estos recursos:</p>
+<ul style="list-style-type: circle;">
+<li>Seguiremos las indicaciones de la docente.</li>
+<li>No escribiremos datos personales.</li>
+<li>No modificaremos el trabajo de otros grupos.</li>
+<li>Pediremos ayuda si algo no funciona.</li>
+<li>Cuidaremos los dispositivos del centro.<br /> </li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278097897-51hnpe1uo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Recursos para el alumnado<br />En esta página encontrarás los materiales que utilizaremos durante el proyecto para aprender sobre el amor y el perdón.</p>\n<p>Estos recursos nos ayudarán a:</p>\n<p>conocer enseñanzas de Jesús;<br />pensar en situaciones de nuestra vida diaria;<br />realizar actividades digitales sencillas;<br />preparar el mural final “Amar y perdonar”.<br />Panel de recursos<br />La docente ha preparado un panel de recursos con vídeos, actividades, palabras importantes y materiales de apoyo.</p>\n<p>Enlace al Padlet del alumnado:</p>\n<p><a href=\"https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2\">https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2</a></p>\n<p>¿Cómo usaremos estos recursos?<br title=\"\" />Utilizaremos el Padlet de forma guiada en clase. No será necesario navegar libremente por internet. La docente indicará qué recurso vamos a consultar en cada momento.<a href=\"https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2\">https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2</a></p>\n<p>Recordamos<br />Cuando utilicemos estos recursos:</p>\n<p>seguiremos las indicaciones de la docente;<br />no escribiremos datos personales;<br />no modificaremos el trabajo de otros grupos;<br />pediremos ayuda si algo no funciona;<br />cuidaremos los dispositivos del centro.<br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278097897-51hnpe1uo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Recursos para el alumnado</strong><br />En esta página encontrarás los materiales que utilizaremos durante el proyecto para aprender sobre el amor y el perdón.</p>\n<p>Estos recursos nos ayudarán a:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Conocer enseñanzas de Jesús.</li>\n<li>Pensar en situaciones de nuestra vida diaria.</li>\n<li>Realizar actividades digitales sencillas.</li>\n<li>Reparar el mural final “Amar y perdonar”.<br /></li>\n</ul>\n<p><strong>Panel de recursos</strong><br />La docente ha preparado un panel de recursos con vídeos, actividades, palabras importantes y materiales de apoyo.</p>\n<p>⇒<a href=\"https://padlet.com/mammebd96/recursos-para-trabajar-el-amor-y-el-perdon-en-2-de-primaria-fzzxankdoobidji2\" title=\"\">Enlace al Padlet del alumnado.</a></p>\n<p><strong>¿Cómo usaremos estos recursos?</strong><br title=\"\" />Utilizaremos el Padlet de forma guiada en clase. No será necesario navegar libremente por Internet. La docente indicará qué recurso vamos a consultar en cada momento.</p>\n<p><strong>Recordamos</strong><br />Cuando utilicemos estos recursos:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Seguiremos las indicaciones de la docente.</li>\n<li>No escribiremos datos personales.</li>\n<li>No modificaremos el trabajo de otros grupos.</li>\n<li>Pediremos ayuda si algo no funciona.</li>\n<li>Cuidaremos los dispositivos del centro.<br /> </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -475,20 +543,25 @@
           <odeIdeviceId>idevice-1778278585687-dxzwtlxil</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Recursos para el profesorado</p>
+    <p><strong>Recursos para el profesorado</strong></p>
 <p>En esta página se recoge una curación de herramientas digitales útiles para la gestión diaria del aula y para el diseño de actividades de aprendizaje.</p>
 <p>La selección incluye recursos para:</p>
-<p>- crear materiales visuales;<br />- diseñar actividades interactivas;<br />- organizar documentos y recursos;<br />- favorecer la participación del alumnado;<br />- crear productos finales digitales.</p>
+<ul style="list-style-type: circle;">
+<li>Crear materiales visuales.</li>
+<li>Diseñar actividades interactivas.</li>
+<li>Organizar documentos y recursos.</li>
+<li>Favorecer la participación del alumnado.</li>
+<li>Crear productos finales digitales.</li>
+</ul>
 <p>## Panel de herramientas docentes</p>
 <p>La curación de contenidos para el profesorado se ha realizado con Wakelet.</p>
 <p>Enlace al Wakelet del profesorado:</p>
 <p><a href="https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh">https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh</a></p>
-<p><a href="https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh" title="">PEGA AQUÍ TU ENLACE DE WAKELET</a></p>
-<p>Utilidad de este panel</p>
+<p><em>Utilidad de este panel</em></p>
 <p>Este panel puede servir como apoyo para otros docentes que quieran enriquecer su práctica diaria con herramientas digitales sencillas y adaptadas al aula de Educación Primaria.</p>
 <p>También permite tener localizados recursos útiles para crear materiales, organizar actividades y acompañar al alumnado en el uso responsable de la tecnología.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278585687-dxzwtlxil","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Recursos para el profesorado</p>\n<p>En esta página se recoge una curación de herramientas digitales útiles para la gestión diaria del aula y para el diseño de actividades de aprendizaje.</p>\n<p>La selección incluye recursos para:</p>\n<p>- crear materiales visuales;<br />- diseñar actividades interactivas;<br />- organizar documentos y recursos;<br />- favorecer la participación del alumnado;<br />- crear productos finales digitales.</p>\n<p>## Panel de herramientas docentes</p>\n<p>La curación de contenidos para el profesorado se ha realizado con Wakelet.</p>\n<p>Enlace al Wakelet del profesorado:</p>\n<p><a href=\"https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh\">https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh</a></p>\n<p><a href=\"https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh\" title=\"\">PEGA AQUÍ TU ENLACE DE WAKELET</a></p>\n<p>Utilidad de este panel</p>\n<p>Este panel puede servir como apoyo para otros docentes que quieran enriquecer su práctica diaria con herramientas digitales sencillas y adaptadas al aula de Educación Primaria.</p>\n<p>También permite tener localizados recursos útiles para crear materiales, organizar actividades y acompañar al alumnado en el uso responsable de la tecnología.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278585687-dxzwtlxil","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Recursos para el profesorado</strong></p>\n<p>En esta página se recoge una curación de herramientas digitales útiles para la gestión diaria del aula y para el diseño de actividades de aprendizaje.</p>\n<p>La selección incluye recursos para:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Crear materiales visuales.</li>\n<li>Diseñar actividades interactivas.</li>\n<li>Organizar documentos y recursos.</li>\n<li>Favorecer la participación del alumnado.</li>\n<li>Crear productos finales digitales.</li>\n</ul>\n<p>## Panel de herramientas docentes</p>\n<p>La curación de contenidos para el profesorado se ha realizado con Wakelet.</p>\n<p>Enlace al Wakelet del profesorado:</p>\n<p><a href=\"https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh\">https://wakelet.com/wake/uYUKpDVA6fYYFt7RrcaGh</a></p>\n<p><em>Utilidad de este panel</em></p>\n<p>Este panel puede servir como apoyo para otros docentes que quieran enriquecer su práctica diaria con herramientas digitales sencillas y adaptadas al aula de Educación Primaria.</p>\n<p>También permite tener localizados recursos útiles para crear materiales, organizar actividades y acompañar al alumnado en el uso responsable de la tecnología.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -544,9 +617,9 @@
           <odeIdeviceId>idevice-1778278719547-f5gqhla3g</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Línea temporal del proyecto</p>
+    <p><strong>Línea temporal del proyecto</strong></p>
 <p>Esta línea temporal presenta de forma organizada las sesiones, tareas, agrupamientos, espacios, herramientas digitales y recursos técnicos que se utilizarán durante la situación de aprendizaje.</p>
-<p>Organización general</p>
+<p><strong>Organización general</strong></p>
 <p>El proyecto se desarrollará en seis sesiones:</p>
 <p>1. Hablamos sobre el amor y el perdón**  <br />   Lluvia de ideas inicial con ejemplos cercanos: familia, amigos, clase y recreo.</p>
 <p>2. Escuchamos una enseñanza de Jesús**  <br />   Narración o vídeo de la parábola del hijo pródigo para identificar amor, perdón y acogida.</p>
@@ -554,14 +627,14 @@
 <p>4. Realizamos un juego de valores**  <br />   Actividad interactiva para relacionar palabras e imágenes con acciones de amor, perdón, respeto y ayuda.</p>
 <p>5. Preparamos el mural digital**  <br />   Elección de palabras, imágenes y una frase breve para explicar cómo podemos amar y perdonar.</p>
 <p>6. Creamos y presentamos el mural “Amar y perdonar”**  <br />   Elaboración del mural digital en Canva y presentación oral sencilla al grupo-clase.</p>
-<p>Agrupamientos</p>
+<p><strong>Agrupamientos</strong></p>
 <p>Se combinarán actividades en gran grupo, parejas y pequeños grupos para favorecer la participación, la ayuda entre iguales y la inclusión de todo el alumnado.</p>
-<p>Herramientas y recursos técnicos</p>
+<p><strong>Herramientas y recursos técnicos</strong></p>
 <p>Se utilizarán la pizarra digital, Padlet, Canva, Wordwall o Educaplay, tarjetas digitales o impresas y recursos visuales seleccionados previamente por la docente.</p>
-<p>Organización flexible</p>
+<p><strong>Organización flexible</strong></p>
 <p>Si falla alguna herramienta digital, la actividad continuará en papel, con tarjetas impresas o en la pizarra tradicional. Después se podrá pasar el trabajo a formato digital.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278719547-f5gqhla3g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Línea temporal del proyecto</p>\n<p>Esta línea temporal presenta de forma organizada las sesiones, tareas, agrupamientos, espacios, herramientas digitales y recursos técnicos que se utilizarán durante la situación de aprendizaje.</p>\n<p>Organización general</p>\n<p>El proyecto se desarrollará en seis sesiones:</p>\n<p>1. Hablamos sobre el amor y el perdón**  <br />   Lluvia de ideas inicial con ejemplos cercanos: familia, amigos, clase y recreo.</p>\n<p>2. Escuchamos una enseñanza de Jesús**  <br />   Narración o vídeo de la parábola del hijo pródigo para identificar amor, perdón y acogida.</p>\n<p>3. Analizamos situaciones cotidianas**  <br />   Diálogo sobre pedir perdón, perdonar, ayudar, compartir y hacer las paces.</p>\n<p>4. Realizamos un juego de valores**  <br />   Actividad interactiva para relacionar palabras e imágenes con acciones de amor, perdón, respeto y ayuda.</p>\n<p>5. Preparamos el mural digital**  <br />   Elección de palabras, imágenes y una frase breve para explicar cómo podemos amar y perdonar.</p>\n<p>6. Creamos y presentamos el mural “Amar y perdonar”**  <br />   Elaboración del mural digital en Canva y presentación oral sencilla al grupo-clase.</p>\n<p>Agrupamientos</p>\n<p>Se combinarán actividades en gran grupo, parejas y pequeños grupos para favorecer la participación, la ayuda entre iguales y la inclusión de todo el alumnado.</p>\n<p>Herramientas y recursos técnicos</p>\n<p>Se utilizarán la pizarra digital, Padlet, Canva, Wordwall o Educaplay, tarjetas digitales o impresas y recursos visuales seleccionados previamente por la docente.</p>\n<p>Organización flexible</p>\n<p>Si falla alguna herramienta digital, la actividad continuará en papel, con tarjetas impresas o en la pizarra tradicional. Después se podrá pasar el trabajo a formato digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278719547-f5gqhla3g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Línea temporal del proyecto</strong></p>\n<p>Esta línea temporal presenta de forma organizada las sesiones, tareas, agrupamientos, espacios, herramientas digitales y recursos técnicos que se utilizarán durante la situación de aprendizaje.</p>\n<p><strong>Organización general</strong></p>\n<p>El proyecto se desarrollará en seis sesiones:</p>\n<p>1. Hablamos sobre el amor y el perdón**  <br />   Lluvia de ideas inicial con ejemplos cercanos: familia, amigos, clase y recreo.</p>\n<p>2. Escuchamos una enseñanza de Jesús**  <br />   Narración o vídeo de la parábola del hijo pródigo para identificar amor, perdón y acogida.</p>\n<p>3. Analizamos situaciones cotidianas**  <br />   Diálogo sobre pedir perdón, perdonar, ayudar, compartir y hacer las paces.</p>\n<p>4. Realizamos un juego de valores**  <br />   Actividad interactiva para relacionar palabras e imágenes con acciones de amor, perdón, respeto y ayuda.</p>\n<p>5. Preparamos el mural digital**  <br />   Elección de palabras, imágenes y una frase breve para explicar cómo podemos amar y perdonar.</p>\n<p>6. Creamos y presentamos el mural “Amar y perdonar”**  <br />   Elaboración del mural digital en Canva y presentación oral sencilla al grupo-clase.</p>\n<p><strong>Agrupamientos</strong></p>\n<p>Se combinarán actividades en gran grupo, parejas y pequeños grupos para favorecer la participación, la ayuda entre iguales y la inclusión de todo el alumnado.</p>\n<p><strong>Herramientas y recursos técnicos</strong></p>\n<p>Se utilizarán la pizarra digital, Padlet, Canva, Wordwall o Educaplay, tarjetas digitales o impresas y recursos visuales seleccionados previamente por la docente.</p>\n<p><strong>Organización flexible</strong></p>\n<p>Si falla alguna herramienta digital, la actividad continuará en papel, con tarjetas impresas o en la pizarra tradicional. Después se podrá pasar el trabajo a formato digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -663,25 +736,84 @@
           <odeIdeviceId>idevice-1778278849860-fw6h8xjww</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Guía didáctica</p>
-<p>Esta guía didáctica recoge la relación entre las tareas de la situación de aprendizaje y los criterios de evaluación asociados. Su finalidad es facilitar la aplicación del proyecto en el aula y servir de orientación para otros docentes.</p>
-<p>Datos generales</p>
-<p>Título de la SdA: Amar y perdonar: aprendemos con Jesús a cuidar a los demás</p>
-<p>Área: Religión Católica</p>
-<p>Nivel: Educación Primaria</p>
-<p>Producto final: mural digital colaborativo en Canva</p>
-<p>Relación entre tareas y criterios de evaluación</p>
-<p>| Tarea del alumnado | Criterio de evaluación | Agrupamiento | Herramienta |<br />| Lluvia de ideas inicial sobre el amor y el perdón. | Identificar emociones, sentimientos y vivencias, reconociéndolos también en los demás. | Gran grupo | Pizarra digital / Padlet |<br />| Visionado y comentario de una parábola de Jesús. | Observar valores fundamentales en relatos y personajes bíblicos. | Gran grupo | Vídeo / pizarra digital |<br />| Análisis de situaciones cotidianas: pedir perdón, perdonar y ayudar. | Identificar situaciones que favorecen la convivencia pacífica. | Parejas y gran grupo | Tarjetas digitales o impresas |<br />| Juego interactivo de valores. | Mostrar actitudes de respeto, mediación y cuidado del prójimo. | Parejas o pequeño grupo | Wordwall / Educaplay |<br />| Preparación del mural digital. | Relacionar aprendizajes con expresiones artísticas y creativas. | Pequeño grupo | Canva |<br />| Creación y presentación del mural “Amar y perdonar”. | Reconocer el mensaje de Jesús y valorar sus aportaciones para la persona y la sociedad. | Pequeño grupo y gran grupo | Canva / pizarra digital |</p>
-<p>Orientaciones para el profesorado</p>
+    <h5>Guía didáctica</h5>
+<p>Esta guía didáctica recoge la relación entre las tareas de la situación de aprendizaje y los criterios de evaluación asociados. Su finalidad es facilitar la aplicación del proyecto en el aula y servir de orientación para otros docentes. <br /></p>
+<p><strong>Datos generales</strong></p>
+<p><em>Título de la SdA: </em>Amar y perdonar: aprendemos con Jesús a cuidar a los demás.</p>
+<p><em>Área: </em>Religión Católica.</p>
+<p><em>Nivel:</em> Educación Primaria.</p>
+<p><em>Producto final:</em> mural digital colaborativo en Canva.</p>
+<p><strong>Relación entre tareas y criterios de evaluación</strong></p>
+<table border="1" style="width: 100.047%;">
+<tbody>
+<tr>
+<td style="width: 24.9645%;"><strong>Tarea del alumnado</strong></td>
+<td style="width: 39.2806%;"><strong>Criterio de evaluación</strong></td>
+<td style="width: 15.381%;"><strong>Agrupamiento </strong></td>
+<td style="width: 20.3502%;"><strong>Herramienta</strong></td>
+</tr>
+<tr>
+<td style="width: 24.9645%; text-align: justify;">Lluvia de ideas inicial sobre el amor y el perdón. </td>
+<td style="width: 39.2806%; text-align: justify;">Identificar emociones, sentimientos y vivencias, reconociéndolos también en los demás.</td>
+<td style="width: 15.381%;">Gran grupo</td>
+<td style="width: 20.3502%;">Pizarra digital / Padlet</td>
+</tr>
+<tr>
+<td style="width: 24.9645%;">Visionado y comentario de una parábola de Jesús. </td>
+<td style="width: 39.2806%;">Observar valores fundamentales en relatos y personajes bíblicos.</td>
+<td style="width: 15.381%;">Gran grupo</td>
+<td style="width: 20.3502%;">Vídeo / pizarra digital </td>
+</tr>
+<tr>
+<td style="width: 24.9645%;">Análisis de situaciones cotidianas: pedir perdón, perdonar y ayudar. </td>
+<td style="width: 39.2806%;">Identificar situaciones que favorecen la convivencia pacífica.</td>
+<td style="width: 15.381%;">Parejas y gran grupo</td>
+<td style="width: 20.3502%;">Tarjetas digitales o impresas</td>
+</tr>
+<tr>
+<td style="width: 24.9645%;">Juego interactivo de valores. </td>
+<td style="width: 39.2806%;">Mostrar actitudes de respeto, mediación y cuidado del prójimo.</td>
+<td style="width: 15.381%;">Parejas o pequeño grupo</td>
+<td style="width: 20.3502%;">Wordwall / Educaplay</td>
+</tr>
+<tr>
+<td style="width: 24.9645%;">Preparación del mural digital. </td>
+<td style="width: 39.2806%;">Relacionar aprendizajes con expresiones artísticas y creativas.</td>
+<td style="width: 15.381%;">Pequeño grupo</td>
+<td style="width: 20.3502%;">Canva</td>
+</tr>
+<tr>
+<td style="width: 24.9645%;">Creación y presentación del mural “Amar y perdonar”. </td>
+<td style="width: 39.2806%;">Reconocer el mensaje de Jesús y valorar sus aportaciones para la persona y la sociedad. </td>
+<td style="width: 15.381%;">Pequeño grupo y gran grupo</td>
+<td style="width: 20.3502%;">Canva / pizarra digital</td>
+</tr>
+</tbody>
+</table>
+<p><br /><strong>Orientaciones para el profesorado</strong></p>
 <p>La propuesta está diseñada para alumnado de Educación Primaria y debe aplicarse de forma flexible, teniendo en cuenta la edad, los ritmos de aprendizaje y el nivel de competencia digital del grupo.</p>
 <p>Se recomienda:</p>
-<p>- utilizar plantillas ya preparadas;<br />- revisar previamente todos los enlaces y recursos;<br />- evitar la navegación libre del alumnado;<br />- combinar recursos digitales con materiales impresos;<br />- organizar grupos heterogéneos;<br />- ofrecer apoyos visuales y orales;<br />- prever alternativas si falla la conexión o alguna herramienta;<br />- cuidar la protección de datos personales y la privacidad del alumnado.</p>
-<p>Atención a la diversidad y DUA</p>
+<ul style="list-style-type: circle;">
+<li>Utilizar plantillas ya preparadas.</li>
+<li>Revisar previamente todos los enlaces y recursos.</li>
+<li>Evitar la navegación libre del alumnado.</li>
+<li>Combinar recursos digitales con materiales impresos.</li>
+<li>Organizar grupos heterogéneos.</li>
+<li>Ofrecer apoyos visuales y orales.</li>
+<li>Prever alternativas si falla la conexión o alguna herramienta.</li>
+<li>Cuidar la protección de datos personales y la privacidad del alumnado.</li>
+</ul>
+<p><strong>Atención a la diversidad y DUA</strong></p>
 <p>La situación de aprendizaje ofrece diferentes formas de acceso a la información: imágenes, vídeos, diálogo oral, juegos interactivos, tarjetas y ejemplos cercanos.</p>
 <p>También permite diferentes formas de participación: expresión oral, selección de imágenes, escritura de palabras o frases breves, trabajo en parejas, trabajo en grupo y presentación del producto final.</p>
 <p>De este modo, se favorece la inclusión, la participación de todo el alumnado y el desarrollo progresivo de la competencia digital.</p>
+<p><br /></p>
+<h5><strong>Para consultar: </strong></h5>
+<ul style="list-style-type: circle;">
+<li><a href="https://docs.google.com/document/d/1sGGGgLTtLgEaj2HKIv6D7Vy90DzmDdBP/edit?usp=sharing&amp;ouid=115068993293996750482&amp;rtpof=true&amp;sd=true" title="">Documento de criterios de evaluación (Tarea 6.1).</a></li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278849860-fw6h8xjww","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Guía didáctica</p>\n<p>Esta guía didáctica recoge la relación entre las tareas de la situación de aprendizaje y los criterios de evaluación asociados. Su finalidad es facilitar la aplicación del proyecto en el aula y servir de orientación para otros docentes.</p>\n<p>Datos generales</p>\n<p>Título de la SdA: Amar y perdonar: aprendemos con Jesús a cuidar a los demás</p>\n<p>Área: Religión Católica</p>\n<p>Nivel: Educación Primaria</p>\n<p>Producto final: mural digital colaborativo en Canva</p>\n<p>Relación entre tareas y criterios de evaluación</p>\n<p>| Tarea del alumnado | Criterio de evaluación | Agrupamiento | Herramienta |<br />| Lluvia de ideas inicial sobre el amor y el perdón. | Identificar emociones, sentimientos y vivencias, reconociéndolos también en los demás. | Gran grupo | Pizarra digital / Padlet |<br />| Visionado y comentario de una parábola de Jesús. | Observar valores fundamentales en relatos y personajes bíblicos. | Gran grupo | Vídeo / pizarra digital |<br />| Análisis de situaciones cotidianas: pedir perdón, perdonar y ayudar. | Identificar situaciones que favorecen la convivencia pacífica. | Parejas y gran grupo | Tarjetas digitales o impresas |<br />| Juego interactivo de valores. | Mostrar actitudes de respeto, mediación y cuidado del prójimo. | Parejas o pequeño grupo | Wordwall / Educaplay |<br />| Preparación del mural digital. | Relacionar aprendizajes con expresiones artísticas y creativas. | Pequeño grupo | Canva |<br />| Creación y presentación del mural “Amar y perdonar”. | Reconocer el mensaje de Jesús y valorar sus aportaciones para la persona y la sociedad. | Pequeño grupo y gran grupo | Canva / pizarra digital |</p>\n<p>Orientaciones para el profesorado</p>\n<p>La propuesta está diseñada para alumnado de Educación Primaria y debe aplicarse de forma flexible, teniendo en cuenta la edad, los ritmos de aprendizaje y el nivel de competencia digital del grupo.</p>\n<p>Se recomienda:</p>\n<p>- utilizar plantillas ya preparadas;<br />- revisar previamente todos los enlaces y recursos;<br />- evitar la navegación libre del alumnado;<br />- combinar recursos digitales con materiales impresos;<br />- organizar grupos heterogéneos;<br />- ofrecer apoyos visuales y orales;<br />- prever alternativas si falla la conexión o alguna herramienta;<br />- cuidar la protección de datos personales y la privacidad del alumnado.</p>\n<p>Atención a la diversidad y DUA</p>\n<p>La situación de aprendizaje ofrece diferentes formas de acceso a la información: imágenes, vídeos, diálogo oral, juegos interactivos, tarjetas y ejemplos cercanos.</p>\n<p>También permite diferentes formas de participación: expresión oral, selección de imágenes, escritura de palabras o frases breves, trabajo en parejas, trabajo en grupo y presentación del producto final.</p>\n<p>De este modo, se favorece la inclusión, la participación de todo el alumnado y el desarrollo progresivo de la competencia digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278849860-fw6h8xjww","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h5>Guía didáctica</h5>\n<p>Esta guía didáctica recoge la relación entre las tareas de la situación de aprendizaje y los criterios de evaluación asociados. Su finalidad es facilitar la aplicación del proyecto en el aula y servir de orientación para otros docentes. <br /></p>\n<p><strong>Datos generales</strong></p>\n<p><em>Título de la SdA: </em>Amar y perdonar: aprendemos con Jesús a cuidar a los demás.</p>\n<p><em>Área: </em>Religión Católica.</p>\n<p><em>Nivel:</em> Educación Primaria.</p>\n<p><em>Producto final:</em> mural digital colaborativo en Canva.</p>\n<p><strong>Relación entre tareas y criterios de evaluación</strong></p>\n<table border=\"1\" style=\"width: 100.047%;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9645%;\"><strong>Tarea del alumnado</strong></td>\n<td style=\"width: 39.2806%;\"><strong>Criterio de evaluación</strong></td>\n<td style=\"width: 15.381%;\"><strong>Agrupamiento </strong></td>\n<td style=\"width: 20.3502%;\"><strong>Herramienta</strong></td>\n</tr>\n<tr>\n<td style=\"width: 24.9645%; text-align: justify;\">Lluvia de ideas inicial sobre el amor y el perdón. </td>\n<td style=\"width: 39.2806%; text-align: justify;\">Identificar emociones, sentimientos y vivencias, reconociéndolos también en los demás.</td>\n<td style=\"width: 15.381%;\">Gran grupo</td>\n<td style=\"width: 20.3502%;\">Pizarra digital / Padlet</td>\n</tr>\n<tr>\n<td style=\"width: 24.9645%;\">Visionado y comentario de una parábola de Jesús. </td>\n<td style=\"width: 39.2806%;\">Observar valores fundamentales en relatos y personajes bíblicos.</td>\n<td style=\"width: 15.381%;\">Gran grupo</td>\n<td style=\"width: 20.3502%;\">Vídeo / pizarra digital </td>\n</tr>\n<tr>\n<td style=\"width: 24.9645%;\">Análisis de situaciones cotidianas: pedir perdón, perdonar y ayudar. </td>\n<td style=\"width: 39.2806%;\">Identificar situaciones que favorecen la convivencia pacífica.</td>\n<td style=\"width: 15.381%;\">Parejas y gran grupo</td>\n<td style=\"width: 20.3502%;\">Tarjetas digitales o impresas</td>\n</tr>\n<tr>\n<td style=\"width: 24.9645%;\">Juego interactivo de valores. </td>\n<td style=\"width: 39.2806%;\">Mostrar actitudes de respeto, mediación y cuidado del prójimo.</td>\n<td style=\"width: 15.381%;\">Parejas o pequeño grupo</td>\n<td style=\"width: 20.3502%;\">Wordwall / Educaplay</td>\n</tr>\n<tr>\n<td style=\"width: 24.9645%;\">Preparación del mural digital. </td>\n<td style=\"width: 39.2806%;\">Relacionar aprendizajes con expresiones artísticas y creativas.</td>\n<td style=\"width: 15.381%;\">Pequeño grupo</td>\n<td style=\"width: 20.3502%;\">Canva</td>\n</tr>\n<tr>\n<td style=\"width: 24.9645%;\">Creación y presentación del mural “Amar y perdonar”. </td>\n<td style=\"width: 39.2806%;\">Reconocer el mensaje de Jesús y valorar sus aportaciones para la persona y la sociedad. </td>\n<td style=\"width: 15.381%;\">Pequeño grupo y gran grupo</td>\n<td style=\"width: 20.3502%;\">Canva / pizarra digital</td>\n</tr>\n</tbody>\n</table>\n<p><br /><strong>Orientaciones para el profesorado</strong></p>\n<p>La propuesta está diseñada para alumnado de Educación Primaria y debe aplicarse de forma flexible, teniendo en cuenta la edad, los ritmos de aprendizaje y el nivel de competencia digital del grupo.</p>\n<p>Se recomienda:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Utilizar plantillas ya preparadas.</li>\n<li>Revisar previamente todos los enlaces y recursos.</li>\n<li>Evitar la navegación libre del alumnado.</li>\n<li>Combinar recursos digitales con materiales impresos.</li>\n<li>Organizar grupos heterogéneos.</li>\n<li>Ofrecer apoyos visuales y orales.</li>\n<li>Prever alternativas si falla la conexión o alguna herramienta.</li>\n<li>Cuidar la protección de datos personales y la privacidad del alumnado.</li>\n</ul>\n<p><strong>Atención a la diversidad y DUA</strong></p>\n<p>La situación de aprendizaje ofrece diferentes formas de acceso a la información: imágenes, vídeos, diálogo oral, juegos interactivos, tarjetas y ejemplos cercanos.</p>\n<p>También permite diferentes formas de participación: expresión oral, selección de imágenes, escritura de palabras o frases breves, trabajo en parejas, trabajo en grupo y presentación del producto final.</p>\n<p>De este modo, se favorece la inclusión, la participación de todo el alumnado y el desarrollo progresivo de la competencia digital.</p>\n<p><br /></p>\n<h5><strong>Para consultar: </strong></h5>\n<ul style=\"list-style-type: circle;\">\n<li><a href=\"https://docs.google.com/document/d/1sGGGgLTtLgEaj2HKIv6D7Vy90DzmDdBP/edit?usp=sharing&amp;ouid=115068993293996750482&amp;rtpof=true&amp;sd=true\" title=\"\">Documento de criterios de evaluación (Tarea 6.1).</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -737,26 +869,54 @@
           <odeIdeviceId>idevice-1778278971228-201mrf3w8</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Evaluación del proyecto</p>
+    <h5>Evaluación del proyecto</h5>
 <p>La evaluación de esta situación de aprendizaje será continua, formativa y adaptada al nivel del alumnado. Se combinarán diferentes instrumentos para recoger información sobre el proceso, el producto final y la reflexión del alumnado.</p>
-<p>Instrumento 1: Lista de cotejo de observación</p>
+<p><strong>Instrumento 1: Lista de cotejo de observación</strong></p>
 <p>Se utilizará durante las actividades de aula para observar la participación, la colaboración, el respeto a las normas de uso de la tecnología y la comprensión de los valores trabajados.</p>
 <p>Aspectos que se observarán:</p>
-<p>- participa en las actividades;<br />- escucha y respeta a los compañeros;<br />- identifica acciones relacionadas con el amor y el perdón;<br />- utiliza las herramientas digitales siguiendo las indicaciones;<br />- colabora con su pareja o grupo;<br />- cuida los dispositivos y materiales.</p>
-<p>Instrumento 2: Rúbrica del mural digital</p>
+<ul style="list-style-type: circle;">
+<li>Participa en las actividades.</li>
+<li>Escucha y respeta a los compañeros.</li>
+<li>Identifica acciones relacionadas con el amor y el perdón.</li>
+<li>Utiliza las herramientas digitales siguiendo las indicaciones.</li>
+<li>Colabora con su pareja o grupo.</li>
+<li>Cuida los dispositivos y materiales.</li>
+</ul>
+<p><strong>Instrumento 2: Rúbrica del mural digital</strong></p>
 <p>Se utilizará para valorar el producto final elaborado en Canva.</p>
 <p>La rúbrica tendrá en cuenta:</p>
-<p>- claridad del título;<br />- relación de imágenes y palabras con el amor y el perdón;<br />- inclusión de una frase breve;<br />- ejemplo de una acción cotidiana;<br />- colaboración dentro del grupo;<br />- presentación oral sencilla;<br />- uso responsable de la herramienta digital.</p>
-<p>Instrumento 3: Diana de autoevaluación</p>
+<ul style="list-style-type: circle;">
+<li>Claridad del título.</li>
+<li>Relación de imágenes y palabras con el amor y el perdón.</li>
+<li>Inclusión de una frase breve.</li>
+<li>Ejemplo de una acción cotidiana.</li>
+<li>Colaboración dentro del grupo.</li>
+<li>Presentación oral sencilla.</li>
+<li>Uso responsable de la herramienta digital.</li>
+</ul>
+<p><strong>Instrumento 3: Diana de autoevaluación</strong></p>
 <p>Se utilizará al finalizar el proyecto para que el alumnado reflexione sobre su propio aprendizaje de forma sencilla y visual.</p>
 <p>El alumnado valorará si:</p>
-<p>- ha entendido qué significa amar y perdonar;<br />- ha participado en el grupo;<br />- ha cuidado los materiales y dispositivos;<br />- ha escuchado a sus compañeros;<br />- ha aportado ideas al mural;<br />- puede aplicar lo aprendido en la vida diaria.</p>
-<p>Recogida y análisis de datos</p>
+<ul style="list-style-type: circle;">
+<li>Ha entendido qué significa amar y perdonar.</li>
+<li>Ha participado en el grupo.</li>
+<li>Ha cuidado los materiales y dispositivos.</li>
+<li>Ha escuchado a sus compañeros.</li>
+<li>Ha aportado ideas al mural.</li>
+<li>Puede aplicar lo aprendido en la vida diaria.</li>
+</ul>
+<p><strong>Recogida y análisis de datos</strong></p>
 <p>Los datos se recogerán mediante observación directa, revisión del mural digital, participación oral y autoevaluación final.</p>
 <p>Esta información servirá para:</p>
-<p>- comprobar si se han alcanzado los criterios de evaluación;<br />- detectar dificultades del alumnado;<br />- ajustar los apoyos necesarios;<br />- valorar la eficacia de las herramientas digitales utilizadas;<br />- mejorar futuras propuestas didácticas.</p>
+<ul style="list-style-type: circle;">
+<li>Comprobar si se han alcanzado los criterios de evaluación.</li>
+<li>Detectar dificultades del alumnado.</li>
+<li>Ajustar los apoyos necesarios.</li>
+<li>Valorar la eficacia de las herramientas digitales utilizadas.</li>
+<li>Mejorar futuras propuestas didácticas.</li>
+</ul>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278971228-201mrf3w8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Evaluación del proyecto</p>\n<p>La evaluación de esta situación de aprendizaje será continua, formativa y adaptada al nivel del alumnado. Se combinarán diferentes instrumentos para recoger información sobre el proceso, el producto final y la reflexión del alumnado.</p>\n<p>Instrumento 1: Lista de cotejo de observación</p>\n<p>Se utilizará durante las actividades de aula para observar la participación, la colaboración, el respeto a las normas de uso de la tecnología y la comprensión de los valores trabajados.</p>\n<p>Aspectos que se observarán:</p>\n<p>- participa en las actividades;<br />- escucha y respeta a los compañeros;<br />- identifica acciones relacionadas con el amor y el perdón;<br />- utiliza las herramientas digitales siguiendo las indicaciones;<br />- colabora con su pareja o grupo;<br />- cuida los dispositivos y materiales.</p>\n<p>Instrumento 2: Rúbrica del mural digital</p>\n<p>Se utilizará para valorar el producto final elaborado en Canva.</p>\n<p>La rúbrica tendrá en cuenta:</p>\n<p>- claridad del título;<br />- relación de imágenes y palabras con el amor y el perdón;<br />- inclusión de una frase breve;<br />- ejemplo de una acción cotidiana;<br />- colaboración dentro del grupo;<br />- presentación oral sencilla;<br />- uso responsable de la herramienta digital.</p>\n<p>Instrumento 3: Diana de autoevaluación</p>\n<p>Se utilizará al finalizar el proyecto para que el alumnado reflexione sobre su propio aprendizaje de forma sencilla y visual.</p>\n<p>El alumnado valorará si:</p>\n<p>- ha entendido qué significa amar y perdonar;<br />- ha participado en el grupo;<br />- ha cuidado los materiales y dispositivos;<br />- ha escuchado a sus compañeros;<br />- ha aportado ideas al mural;<br />- puede aplicar lo aprendido en la vida diaria.</p>\n<p>Recogida y análisis de datos</p>\n<p>Los datos se recogerán mediante observación directa, revisión del mural digital, participación oral y autoevaluación final.</p>\n<p>Esta información servirá para:</p>\n<p>- comprobar si se han alcanzado los criterios de evaluación;<br />- detectar dificultades del alumnado;<br />- ajustar los apoyos necesarios;<br />- valorar la eficacia de las herramientas digitales utilizadas;<br />- mejorar futuras propuestas didácticas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778278971228-201mrf3w8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h5>Evaluación del proyecto</h5>\n<p>La evaluación de esta situación de aprendizaje será continua, formativa y adaptada al nivel del alumnado. Se combinarán diferentes instrumentos para recoger información sobre el proceso, el producto final y la reflexión del alumnado.</p>\n<p><strong>Instrumento 1: Lista de cotejo de observación</strong></p>\n<p>Se utilizará durante las actividades de aula para observar la participación, la colaboración, el respeto a las normas de uso de la tecnología y la comprensión de los valores trabajados.</p>\n<p>Aspectos que se observarán:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Participa en las actividades.</li>\n<li>Escucha y respeta a los compañeros.</li>\n<li>Identifica acciones relacionadas con el amor y el perdón.</li>\n<li>Utiliza las herramientas digitales siguiendo las indicaciones.</li>\n<li>Colabora con su pareja o grupo.</li>\n<li>Cuida los dispositivos y materiales.</li>\n</ul>\n<p><strong>Instrumento 2: Rúbrica del mural digital</strong></p>\n<p>Se utilizará para valorar el producto final elaborado en Canva.</p>\n<p>La rúbrica tendrá en cuenta:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Claridad del título.</li>\n<li>Relación de imágenes y palabras con el amor y el perdón.</li>\n<li>Inclusión de una frase breve.</li>\n<li>Ejemplo de una acción cotidiana.</li>\n<li>Colaboración dentro del grupo.</li>\n<li>Presentación oral sencilla.</li>\n<li>Uso responsable de la herramienta digital.</li>\n</ul>\n<p><strong>Instrumento 3: Diana de autoevaluación</strong></p>\n<p>Se utilizará al finalizar el proyecto para que el alumnado reflexione sobre su propio aprendizaje de forma sencilla y visual.</p>\n<p>El alumnado valorará si:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Ha entendido qué significa amar y perdonar.</li>\n<li>Ha participado en el grupo.</li>\n<li>Ha cuidado los materiales y dispositivos.</li>\n<li>Ha escuchado a sus compañeros.</li>\n<li>Ha aportado ideas al mural.</li>\n<li>Puede aplicar lo aprendido en la vida diaria.</li>\n</ul>\n<p><strong>Recogida y análisis de datos</strong></p>\n<p>Los datos se recogerán mediante observación directa, revisión del mural digital, participación oral y autoevaluación final.</p>\n<p>Esta información servirá para:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Comprobar si se han alcanzado los criterios de evaluación.</li>\n<li>Detectar dificultades del alumnado.</li>\n<li>Ajustar los apoyos necesarios.</li>\n<li>Valorar la eficacia de las herramientas digitales utilizadas.</li>\n<li>Mejorar futuras propuestas didácticas.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -812,19 +972,19 @@
           <odeIdeviceId>idevice-1778279064378-xglwf9php</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p>Créditos y descarga</p>
-<p>Autoría</p>
+    <h5>Créditos y descarga</h5>
+<p><strong>Autoría</strong></p>
 <p>Autora: María del Carmen Barranco Domínguez</p>
-<p>Título del recurso</p>
+<p><strong>Título del recurso</strong></p>
 <p>Amar y perdonar: aprendemos con Jesús a cuidar a los demás**</p>
-<p>Descripción</p>
+<p><strong>Descripción</strong></p>
 <p>Este recurso educativo digital ha sido creado como situación de aprendizaje para el área de Religión Católica en Educación Primaria.</p>
 <p>El alumnado trabajará las enseñanzas de Jesús relacionadas con el amor, el perdón, la ayuda, la amistad y la convivencia positiva. A lo largo del proyecto se utilizarán recursos digitales de forma guiada y segura, y se elaborará como producto final un mural digital colaborativo en Canva.</p>
-<p>Licencia de uso</p>
+<p><strong>Licencia de uso</strong></p>
 <p>Este recurso se publica bajo licencia:</p>
 <p>Creative Commons Reconocimiento - Compartir Igual 4.0 Internacional**</p>
 <p>Esto permite compartir y adaptar el material, siempre que se reconozca la autoría y se comparta con la misma licencia.</p>
-<p>Créditos de recursos digitales utilizados</p>
+<p><strong>Créditos de recursos digitales utilizados</strong></p>
 <p>En este proyecto se han utilizado o enlazado los siguientes recursos y herramientas digitales:</p>
 <p>- Padlet: panel de curación de contenidos para el alumnado.  <br />  Herramienta: https://padlet.com/</p>
 <p>- Wakelet: panel de curación de herramientas para el profesorado.  <br />  Herramienta: https://wakelet.com/</p>
@@ -832,14 +992,14 @@
 <p>- Wordwall: herramienta propuesta para actividades interactivas de repaso.  <br />  Herramienta: https://wordwall.net/</p>
 <p>- Educaplay: herramienta propuesta para actividades educativas interactivas.  <br />  Herramienta: https://www.educaplay.com/</p>
 <p>- eXeLearning: herramienta libre y gratuita utilizada para crear este recurso educativo digital.  <br />  Herramienta: https://exelearning.net/</p>
-<p>Imágenes, vídeos y materiales externos</p>
+<p><strong>Imágenes, vídeos y materiales externos</strong></p>
 <p>Las imágenes, vídeos o recursos externos que se utilicen en el aula serán previamente revisados por la docente y deberán respetar los derechos de autor, citando siempre su procedencia y licencia cuando corresponda.</p>
 <p>En caso de utilizar imágenes libres, se recomienda emplear bancos de imágenes con licencia abierta, como Pixabay, Wikimedia Commons o recursos propios elaborados por la docente.</p>
-<p>Descarga del archivo editable</p>
+<p><strong>Descarga del archivo editable</strong></p>
 <p>El archivo editable de este recurso estará disponible para su descarga desde el siguiente enlace:</p>
-<p>Descargar archivo editable eXeLearning (.elp):**  <br />[PEGA AQUÍ EL ENLACE CUANDO SUBAS EL ARCHIVO .ELP]</p>
+<p>Descargar archivo editable eXeLearning (.elp):**  <br title="amar-y-perdonar-aprendemos-con-jesus-a-cuidar-a-lo.elpx" /><a href="{{context_path}}/content/resources/amar-y-perdonar-aprendemos-con-jesus-a-cuidar-a-lo.elpx" title="amar-y-perdonar-aprendemos-con-jesus-a-cuidar-a-lo.elpx">amar-y-perdonar-aprendemos-con-jesus-a-cuidar-a-lo.elpx</a><br /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778279064378-xglwf9php","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Créditos y descarga</p>\n<p>Autoría</p>\n<p>Autora: María del Carmen Barranco Domínguez</p>\n<p>Título del recurso</p>\n<p>Amar y perdonar: aprendemos con Jesús a cuidar a los demás**</p>\n<p>Descripción</p>\n<p>Este recurso educativo digital ha sido creado como situación de aprendizaje para el área de Religión Católica en Educación Primaria.</p>\n<p>El alumnado trabajará las enseñanzas de Jesús relacionadas con el amor, el perdón, la ayuda, la amistad y la convivencia positiva. A lo largo del proyecto se utilizarán recursos digitales de forma guiada y segura, y se elaborará como producto final un mural digital colaborativo en Canva.</p>\n<p>Licencia de uso</p>\n<p>Este recurso se publica bajo licencia:</p>\n<p>Creative Commons Reconocimiento - Compartir Igual 4.0 Internacional**</p>\n<p>Esto permite compartir y adaptar el material, siempre que se reconozca la autoría y se comparta con la misma licencia.</p>\n<p>Créditos de recursos digitales utilizados</p>\n<p>En este proyecto se han utilizado o enlazado los siguientes recursos y herramientas digitales:</p>\n<p>- Padlet: panel de curación de contenidos para el alumnado.  <br />  Herramienta: https://padlet.com/</p>\n<p>- Wakelet: panel de curación de herramientas para el profesorado.  <br />  Herramienta: https://wakelet.com/</p>\n<p>- Canva: herramienta propuesta para la creación del mural digital colaborativo.  <br />  Herramienta: https://www.canva.com/</p>\n<p>- Wordwall: herramienta propuesta para actividades interactivas de repaso.  <br />  Herramienta: https://wordwall.net/</p>\n<p>- Educaplay: herramienta propuesta para actividades educativas interactivas.  <br />  Herramienta: https://www.educaplay.com/</p>\n<p>- eXeLearning: herramienta libre y gratuita utilizada para crear este recurso educativo digital.  <br />  Herramienta: https://exelearning.net/</p>\n<p>Imágenes, vídeos y materiales externos</p>\n<p>Las imágenes, vídeos o recursos externos que se utilicen en el aula serán previamente revisados por la docente y deberán respetar los derechos de autor, citando siempre su procedencia y licencia cuando corresponda.</p>\n<p>En caso de utilizar imágenes libres, se recomienda emplear bancos de imágenes con licencia abierta, como Pixabay, Wikimedia Commons o recursos propios elaborados por la docente.</p>\n<p>Descarga del archivo editable</p>\n<p>El archivo editable de este recurso estará disponible para su descarga desde el siguiente enlace:</p>\n<p>Descargar archivo editable eXeLearning (.elp):**  <br />[PEGA AQUÍ EL ENLACE CUANDO SUBAS EL ARCHIVO .ELP]</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778279064378-xglwf9php","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h5>Créditos y descarga</h5>\n<p><strong>Autoría</strong></p>\n<p>Autora: María del Carmen Barranco Domínguez</p>\n<p><strong>Título del recurso</strong></p>\n<p>Amar y perdonar: aprendemos con Jesús a cuidar a los demás**</p>\n<p><strong>Descripción</strong></p>\n<p>Este recurso educativo digital ha sido creado como situación de aprendizaje para el área de Religión Católica en Educación Primaria.</p>\n<p>El alumnado trabajará las enseñanzas de Jesús relacionadas con el amor, el perdón, la ayuda, la amistad y la convivencia positiva. A lo largo del proyecto se utilizarán recursos digitales de forma guiada y segura, y se elaborará como producto final un mural digital colaborativo en Canva.</p>\n<p><strong>Licencia de uso</strong></p>\n<p>Este recurso se publica bajo licencia:</p>\n<p>Creative Commons Reconocimiento - Compartir Igual 4.0 Internacional**</p>\n<p>Esto permite compartir y adaptar el material, siempre que se reconozca la autoría y se comparta con la misma licencia.</p>\n<p><strong>Créditos de recursos digitales utilizados</strong></p>\n<p>En este proyecto se han utilizado o enlazado los siguientes recursos y herramientas digitales:</p>\n<p>- Padlet: panel de curación de contenidos para el alumnado.  <br />  Herramienta: https://padlet.com/</p>\n<p>- Wakelet: panel de curación de herramientas para el profesorado.  <br />  Herramienta: https://wakelet.com/</p>\n<p>- Canva: herramienta propuesta para la creación del mural digital colaborativo.  <br />  Herramienta: https://www.canva.com/</p>\n<p>- Wordwall: herramienta propuesta para actividades interactivas de repaso.  <br />  Herramienta: https://wordwall.net/</p>\n<p>- Educaplay: herramienta propuesta para actividades educativas interactivas.  <br />  Herramienta: https://www.educaplay.com/</p>\n<p>- eXeLearning: herramienta libre y gratuita utilizada para crear este recurso educativo digital.  <br />  Herramienta: https://exelearning.net/</p>\n<p><strong>Imágenes, vídeos y materiales externos</strong></p>\n<p>Las imágenes, vídeos o recursos externos que se utilicen en el aula serán previamente revisados por la docente y deberán respetar los derechos de autor, citando siempre su procedencia y licencia cuando corresponda.</p>\n<p>En caso de utilizar imágenes libres, se recomienda emplear bancos de imágenes con licencia abierta, como Pixabay, Wikimedia Commons o recursos propios elaborados por la docente.</p>\n<p><strong>Descarga del archivo editable</strong></p>\n<p>El archivo editable de este recurso estará disponible para su descarga desde el siguiente enlace:</p>\n<p>Descargar archivo editable eXeLearning (.elp):**  <br title=\"amar-y-perdonar-aprendemos-con-jesus-a-cuidar-a-lo.elpx\" /><a href=\"{{context_path}}/content/resources/amar-y-perdonar-aprendemos-con-jesus-a-cuidar-a-lo.elpx\" title=\"amar-y-perdonar-aprendemos-con-jesus-a-cuidar-a-lo.elpx\">amar-y-perdonar-aprendemos-con-jesus-a-cuidar-a-lo.elpx</a><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
